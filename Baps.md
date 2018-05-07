@@ -1,44 +1,19 @@
-Title: Baps
-Pub date: October 24, 2011
-Category: Bread, Recipes, 
+# Baps
+###### Pub date: October 24, 2011
+###### Category: Bread, Recipes
 
 A small breakfast roll from Scotland.
-<div>
-<table>
-<tbody>
-<tr>
-<th>Ingred</th>
-<th>Ounces</th>
-<th>Grams</th>
-</tr>
-<tr>
-<td>Milk</td>
-<td>5 1/4</td>
-<td>150</td>
-</tr>
-<tr>
-<td>Dry Yeast</td>
-<td>1 packet</td>
-<td>7 gms</td>
-</tr>
-<tr>
-<td>Water</td>
-<td>5 1/4</td>
-<td>150</td>
-</tr>
-<tr>
-<td>Bread Flour</td>
-<td>16</td>
-<td>450</td>
-</tr>
-<tr>
-<td>Salt</td>
-<td>2 tsp</td>
-<td>12 (?)</td>
-</tr>
-</tbody>
-</table>
-<h3>Method</h3>
+
+Ingred | Ounces | Grams
+-------|--------|-------
+Milk | 5 1/4 | 150
+Dry Yeast | 1 Packet | 7 gms
+Water | 5 1/4 | 150
+Bread Flour | 16 | 450
+Salt | 2 tsp | 12 (?)
+
+#### Method
+
 1. Dissolve yeast in milk, and then add water.
 2. Sift the flour and salt together in a large bowl. Make a well in the bottom.
 3. Add this mixture to the flour and salt.
@@ -56,8 +31,4 @@ A small breakfast roll from Scotland.
 15. Bake for 15 -20 minutes, or until lightly browned.
 16. Remove to a wire rack. Serve warm
 
-&nbsp;
-
-<em><span class="Apple-style-span" style="color: #333333; font-weight: 300;">adapted from http://artisanbreadbaking.com/bread/baps/</span></em>
-
-</div>
+adapted from http://artisanbreadbaking.com/bread/baps/
