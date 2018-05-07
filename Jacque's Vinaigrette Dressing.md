@@ -1,6 +1,6 @@
-##Jacque's Vinaigrette Dressing
-*Pub date: January 6, 2012*
-*Category: Recipes, Salad*
+## Jacque's Vinaigrette Dressing
+###### Pub date: January 6, 2012
+###### Category: Recipes, Salad
 
 Yield: About 1 1/2 cups
 
