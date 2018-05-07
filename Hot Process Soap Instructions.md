@@ -1,0 +1,17 @@
+Title: Hot Process Soap Instructions
+Pub date: August 25, 2017
+Category: Soap, 
+
+Melt oils and mix up lye solution as you would with CP. You don’t have to worry about controlling the temperatures. Add the lye solution to the oils as soon as you’re confident the lye is completely dissolved. You can stick blend them together right in the crock pot
+
+After you’ve reached a nice, thick trace, put the lid on, check the crock pot is set to low, and entertain yourself for about a half an hour. Obsessive folk like me might return to the pot every five to ten minutes for a peek, but there probably won’t be much happening. After about thirty minutes (more or less, depending on your crock pot’s temperature), the edges will begin to gel:
+
+Check back in about ten minutes and the gel will have spread from the edges toward the centre. I usually refer to this as ‘raw soap island surrounded by a gel ocean’.
+
+at this time I remove the pot from the heat source and give a quick stir just to be sure the gel is complete. If it isn’t, you’ll find a chunk of lighter-coloured raw soap floating in the gel. If you still have raw soap, pop it back in the heat source and cook for another five to ten minutes.
+
+Now you can zap test the soap by taking a little bit out and rubbing it between your fingers to help it cool. It should feel waxy. Once the soap has cooled, lightly tap your tongue with it. If you get a sensation that feels like a 9-V battery, you have active lye in your soap and will need to cook it some more. If not, you can move on to the next step.
+
+When making HP, I add my additives at the end of the cook to avoid having the kitchen smell like the monkey cage at the zoo. Any milks, honey, fruit or veggie purees, etc should go in after the cook. Oils and butters added after the cook will not be saponified, so you get all of their benefits
+
+any HP needs to cure for at least one week, preferably two. It’ll get harder and milder in this time.

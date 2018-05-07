@@ -1,0 +1,28 @@
+Title: Steamed Couscous
+Pub date: April 7, 2016
+Category: Pasta, Recipes, 
+
+<div>Yields 4-5 cups</div>
+<div></div>
+<div>
+<div>2 cups couscous
+Pinch salt
+1/2 cup cold water
+Olive oil, for spraying hands
+
+</div>
+Place couscous in a fine strainer and rinse under cold running water. Dump couscous onto a sheet pan, sprinkle with salt, and let stand until grains swell, about 10 minutes. Break up lumps with your fingers.
+
+Partially fill a large steamer pot or stockpot with 1-inch water. Bring water to simmer. Place damp tea towel in steamer or colander and add couscous. Fold towel over couscous. Steam, covered, over simmering water for 15 minutes.
+
+Pour couscous onto large, rimmed baking sheet and sprinkle with 1/2 cup cold water. Toss with slotted spatula until cool and the water is absorbed. Spritz hands with olive oil and spread out couscous, breaking up any lumps as you go. Set aside for 5 minutes.
+
+Refill pot with enough water to make 1-inch again. Return couscous to colander or steamer and steam, covered, for 10 minutes.
+
+</div>
+<div>http://www.foodnetwork.com/recipes/alton-brown/steamed-couscous-recipe.print.html</div>
+<div></div>
+<div>Another source to look at, Fine Cooking article/recipe:
+http://www.finecooking.com/articles/making-moroccan-couscous.aspx</div>
+<div>A note from this article: Choose a colander with holes on the bottom only (not the sides), if possible. A Chinese bamboo steamer works well, too, as long as it’s the right size (just slightly wider than the pot so there’s almost no overhang).  It’s also important that the colander fits tightly inside the pot; there shouldn’t be much of a gap between the rims. The idea is to minimize any spaces or holes where steam can escape; you want to force the steam to rise through the couscous. To help accomplish this, I like to seal the seam between the colander and the pot with cheesecloth or a strip of old towel that has been dipped into a flour and water glue.</div>
+<div>(Also, the holes don't have to be smaller than the cous for the colander to work. Try the pasta steaming pot Christie gave me?)</div>

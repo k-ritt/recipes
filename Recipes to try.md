@@ -1,0 +1,36 @@
+Title: Recipes to try
+Pub date: February 12, 2012
+Category: Recipes, 
+
+Key Lime Pie
+http://ansonmills.com/recipes/541
+
+Parmesan Peppercorn Bread
+http://www.williams-sonoma.com/recipe/parmesan-black-pepper-no-knead-bread.html
+
+Carnitas
+http://www.davidlebovitz.com/2007/09/carnitas/
+
+Triple Ginger Cookies
+http://chowhound.chow.com/topics/472789
+
+Beignets
+http://www.browneyedbaker.com/2012/02/20/beignets-recipe/#more-16226
+
+Pepperoni Bread
+http://www.browneyedbaker.com/2009/11/09/soft-cheese-and-pepperoni-bread/
+
+Sour cream coffee cake:
+http://www.amateurgourmet.com/2011/05/sour_cream_coffee_cake.html
+
+Caramel Corn:
+http://orangette.blogspot.com/2009/12/for-ever-and-ever.html
+
+Sourdough Starter:
+http://www.wildyeastblog.com/2007/07/13/raising-a-starter/
+
+Peanut Butter Crispy Bars
+http://smittenkitchen.com/blog/2008/10/peanut-butter-crispy-bars/
+
+Salted Caramel Pretzel Bark (aka Crack Bark)
+http://www.ezrapoundcake.com/archives/18367

@@ -1,0 +1,52 @@
+Title: Mattar Paneer
+Pub date: January 6, 2013
+Category: Recipes, Vegetarian, 
+
+Or Gajar Matar
+
+2 Tbs oil or Ghee (if sub butter, use unsalted)
+2-3 Tbs Raw Broken Cashews
+1 onion coarsley chopped
+1 tsp salt
+1 Tbs ginger-garlic paste
+1 tsp turmeric
+1 15-oz can diced tomatoes
+1 tsp cumin seed
+Whole garam masala (or 1 tsp dried garam masala)
+1 green chili
+1 tsp cumin powder
+1 tsp coriander powder
+1/2 tsp chili powder
+1 tsp dried fenugreek leaves
+2 cups green peas
+Paneer or 2 cups cooked carrots
+1 cup cream
+Cayenne pepper
+
+Heat butter or oil in pan and lightly sautee the cashew nuts until very light in color (do NOT overcook).
+
+Add onion and salt to pan and cook until slightly brown in color.
+
+Add turmeric and ginger-garlic paste.  Cook until the raw scent leaves.
+
+Add chopped tomatoes and cook for a few minutes.
+
+Blend or food process until a paste forms.
+
+Heat more oil or ghee in the same pan.  Add whole garam masala (if using powder add with rest of spices later?), and cumin seeds.
+
+Add tomato puree back into pan with some water.
+
+Add chopped green chilis, cumin powder, coriander powder and chili powder (and garam masala if using spice blend) and bring to a boil.  Strong simmer for 15 minutes.  Add more water if it gets too thick during this time (but will be adding cream later so that will thin it out a bit).
+
+Add fenugreek leaves and cook for another 10 minutes.
+
+Remove from heat and let cool a bit.  Puree to make very smooth sauce.
+
+Add cream and cook for 10 minutes. The longer it cooks the more the flavors will blend.
+
+Add peas and cook for 5 minutes.
+
+Add paneer or carrots.
+
+Salt to taste and add cayenne pepper to add spicy heat.

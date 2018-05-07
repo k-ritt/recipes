@@ -1,0 +1,54 @@
+Title: Puffy Tacos
+Pub date: October 28, 2011
+Category: Recipes, 
+
+http://homesicktexan.blogspot.com/2007/06/good-bad-and-puffy.html
+
+Ingredients:
+1/4 cup of oil
+1/2 onion, chopped
+3 jalapeno peppers, chopped
+3 cloves of garlic, minced
+2 pounds of ground beef
+1 tablespoon of chili powder
+1 tablespoon of cumin
+1 tablespoon of Mexican oregano
+1/2 teaspoon of powdered cayenne pepper
+1/2 cup of your favorite <a title="Salsa" href="http://karen.rittmeyer.net/?p=270">salsa</a>
+2 tablespoons of fresh cilantro, chopped
+Salt and pepper to taste (1 Tbsp salt)
+1 tablespoon of lime juice
+
+Lettuce
+Corn
+Tomatoes
+Avocado?
+Cheddar cheese
+Chips
+Homemade Ranch Dressing
+
+Method:
+Heat oil in skillet on medium heat.
+Throw in onions and peppers, and cook for about 10 minutes.
+Add garlic, and cook for 2 minutes.
+Add all the other ingredients except the lime juice, stirring occasionally until meat is brown.
+Cover skillet, turn heat down to low, and simmer for about 20 minutes, stirring occasionally.
+Stir in lime juice.
+
+Puffy taco shells
+Ingredients:
+2 cups of masa harina
+1 1/4 cups of water
+1/4 teaspoon of salt
+1 quart of peanut or canola oil
+
+Method:
+Mix masa harina, water and salt together until it forms into a soft ball. If it’s too dry, add a bit more water a tablespoon at a time.
+Divide dough into 16 equal balls, and press out with a tortilla press or roll out with a rolling pin.
+Keep pressed discs covered with a damp cloth.
+Heat up two inches of oil in a pot or skillet to 350 degrees.
+Gently place a disc in the hot oil and it should immediately start to puff. After five seconds, with a spatula, make an indention in the center so it forms a V shape.
+Gently cook the shell on each side until light brown and crispy (about 20 seconds for each side).
+Remove from oil and drain on a paper towel.
+Stuff with spicy ground beef, shredded iceberg lettuce, diced tomatoes, grated cheddar and salsa and serve immediately.
+Makes 16 tacos.

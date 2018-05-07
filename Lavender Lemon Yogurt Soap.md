@@ -1,0 +1,56 @@
+Title: Lavender Lemon Yogurt Soap
+Pub date: March 26, 2014
+Category: Soap, 
+
+<table id="results">
+<tbody>
+<tr class="header">
+<th>Oil(s) Selected</th>
+<th id="amount">Amount</th>
+<th id="percentage">%</th>
+</tr>
+<tr>
+<td>Castor Oil</td>
+<td class="amount">1.98oz</td>
+<td class="percent">4.59%</td>
+</tr>
+<tr>
+<td>Coconut Oil (76 Degrees)</td>
+<td class="amount">14.00oz</td>
+<td class="percent">32.45%</td>
+</tr>
+<tr>
+<td>Olive Oil (Pomace)</td>
+<td class="amount">17.04oz</td>
+<td class="percent">39.50%</td>
+</tr>
+<tr>
+<td>Palm Oil</td>
+<td class="amount">10.12oz</td>
+<td class="percent">23.46%</td>
+</tr>
+<tr class="recommended">
+<td>3% Lye (Sodium Hydroxide) Amount</td>
+<td>6.305oz</td>
+<td></td>
+</tr>
+<tr class="water">
+<td>Ounces of liquid recommended</td>
+<td>14.24oz</td>
+<td></td>
+</tr>
+<tr class="yield">
+<td>Yields</td>
+<td>63.68oz</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h6>Superfatted 3%
+Added at light trace:
+7oz Plain Yogurt (Subtracted from total liquid needed to get H2O quantity for lye)
+1oz Lemon Essential Oil
+.5oz Lavender Essential Oil
+1.5mL Clary Sage Essential Oil
+.5mL Marjoram Essential Oil</h6>
+Used Lemon and Lavender EO's from Essential Depot, NOW Marjoram and Acaie Clary Sage.  Not happy with at least the fragrance of the Essential Depot EO's (lemon smells like lemon pledge).

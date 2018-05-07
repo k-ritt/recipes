@@ -1,0 +1,270 @@
+Title: Basic CP Soap Recipe
+Pub date: November 25, 2012
+Category: Soap, 
+
+20 oz Olive Oil
+6 oz Coconut Oil
+6 oz Palm Oil
+3 oz Almond Oil
+----
+4.87 oz Lye
+11.6 oz Distilled Water
+
+Yield: 51 oz (3.18 lbs)
+
+First made 02/01/12, unmolded 02/03/12, used 02/24/12
+
+------
+11/18/2014
+<table id="tblSettingsTop" class="tblSettings" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table id="tblSettingsLeft" border="0" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td class="bRpadL" align="left" width="70%">Total oil weight</td>
+<td align="center" width="30%">35.9 oz</td>
+</tr>
+<tr>
+<td class="bRpadL B" align="left">Water as percent of oil weight</td>
+<td align="center">38.00 %</td>
+</tr>
+<tr>
+<td class="bRpadL" align="left">Super Fat/Discount</td>
+<td align="center">3 %</td>
+</tr>
+<tr>
+<td class="bRpadL" align="left">Lye Concentration</td>
+<td align="center">27.003 %</td>
+</tr>
+<tr>
+<td class="bRpadL" align="left">Water : Lye Ratio</td>
+<td align="center">2.7033:1</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table id="tblSettingsRight" border="0" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td class="bRpadL" align="left" width="70%">Sat : Unsat Ratio</td>
+<td align="center" width="30%">33 : 67</td>
+</tr>
+<tr>
+<td class="bRpadL" align="left">Iodine</td>
+<td align="center" width="15%">68</td>
+</tr>
+<tr>
+<td class="bRpadL" align="left">INS</td>
+<td align="center">137</td>
+</tr>
+<tr>
+<td class="bRpadL" align="left">Fragrance Ratio</td>
+<td align="center">0.0</td>
+</tr>
+<tr>
+<td class="bRpadL" align="left">Fragrance Weight</td>
+<td align="center">0.00 oz</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="tblLyeWater" border="0" cellspacing="0" cellpadding="1">
+<tbody>
+<tr>
+<td class="bR" align="left" width="46%"></td>
+<td class="bR" align="center" width="18%"><b>Pounds</b></td>
+<td class="bR" align="center" width="18%"><b>Ounces</b></td>
+<td align="center" width="18%"><b>Grams</b></td>
+</tr>
+<tr>
+<td class="bR" align="left">Water</td>
+<td class="bR rightAlignText">0.853</td>
+<td class="bR rightAlignText">13.64</td>
+<td class="rightAlignText">386.74</td>
+</tr>
+<tr>
+<td id="tdLyeLabel" class="bR" align="left">Lye - <strong>NaOH</strong></td>
+<td class="bR rightAlignText">0.315</td>
+<td class="bR rightAlignText">5.05</td>
+<td class="rightAlignText">143.06</td>
+</tr>
+<tr>
+<td class="bR" align="left" width="55%">Oils</td>
+<td class="bR rightAlignText">2.244</td>
+<td class="bR rightAlignText">35.90</td>
+<td class="rightAlignText">1,017.75</td>
+</tr>
+<tr>
+<td class="bR" align="left">Fragrance</td>
+<td class="bR rightAlignText">0.000</td>
+<td class="bR rightAlignText">0.00</td>
+<td class="rightAlignText">0.00</td>
+</tr>
+<tr>
+<td id="tdLyeLabel2" class="bR" valign="middle">Soap weight before CP cure or HP cook</td>
+<td class="bR rightAlignText">3.412</td>
+<td class="bR rightAlignText">54.59</td>
+<td class="rightAlignText">1,547.55</td>
+</tr>
+</tbody>
+</table>
+<table id="tblOilDetail" border="0" cellspacing="0" cellpadding="1">
+<tbody>
+<tr id="trODTitles">
+<td class="bR" width="4%">#</td>
+<td class="bR" width="4%">√</td>
+<td class="bR" align="center" width="30%">Oil/Fat</td>
+<td class="bR" align="center" width="14%">%</td>
+<td class="bR" align="center" width="14%"><b>Pounds</b></td>
+<td class="bR" align="center" width="14%"><b>Ounces</b></td>
+<td align="center" width="20%"><b>Grams</b></td>
+</tr>
+<tr>
+<td class="bR" align="right">1</td>
+<td><input class="bR" disabled="disabled" type="checkbox" /></td>
+<td class="bR" align="left">Olive Oil</td>
+<td class="bR rightAlignText">56.77</td>
+<td class="bR rightAlignText">1.274</td>
+<td class="bR rightAlignText">20.38</td>
+<td class="rightAlignText">577.76</td>
+</tr>
+<tr>
+<td class="bR" align="right">2</td>
+<td><input class="bR" disabled="disabled" type="checkbox" /></td>
+<td class="bR" align="left">Coconut Oil, 76 deg</td>
+<td class="bR rightAlignText">16.71</td>
+<td class="bR rightAlignText">0.375</td>
+<td class="bR rightAlignText">6.00</td>
+<td class="rightAlignText">170.10</td>
+</tr>
+<tr>
+<td class="bR" align="right">3</td>
+<td><input class="bR" disabled="disabled" type="checkbox" /></td>
+<td class="bR" align="left">Palm Oil</td>
+<td class="bR rightAlignText">17.99</td>
+<td class="bR rightAlignText">0.404</td>
+<td class="bR rightAlignText">6.46</td>
+<td class="rightAlignText">183.14</td>
+</tr>
+<tr>
+<td class="bR" align="right">4</td>
+<td><input class="bR" disabled="disabled" type="checkbox" /></td>
+<td class="bR" align="left">Almond Oil, sweet</td>
+<td class="bR rightAlignText">8.52</td>
+<td class="bR rightAlignText">0.191</td>
+<td class="bR rightAlignText">3.06</td>
+<td class="rightAlignText">86.75</td>
+</tr>
+<tr>
+<td align="right"></td>
+<td></td>
+<td class="bR">Totals</td>
+<td class="bR rightAlignText">100.00</td>
+<td class="bR rightAlignText">2.244</td>
+<td class="bR rightAlignText">35.90</td>
+<td class="rightAlignText">1,017.75</td>
+</tr>
+</tbody>
+</table>
+<table id="tblSettingsBottom" class="tblSettings" border="0" cellspacing="0" cellpadding="1">
+<tbody>
+<tr>
+<td valign="top" width="62%">
+<table id="tblQualitiesLeft" border="0" cellspacing="0" cellpadding="1">
+<tbody>
+<tr>
+<td class="bRpadL" width="45%"><b>Soap Bar Quality</b></td>
+<td class="bR" align="center" width="28%"><b>Range</b></td>
+<td align="center"><b>Your Recipe</b></td>
+</tr>
+<tr>
+<td class="bRpadL">Hardness</td>
+<td class="bR" align="center">29 - 54</td>
+<td align="center">32</td>
+</tr>
+<tr>
+<td class="bRpadL">Cleansing</td>
+<td class="bR" align="center">12 - 22</td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td class="bRpadL">Conditioning</td>
+<td class="bR" align="center">44 - 69</td>
+<td align="center">65</td>
+</tr>
+<tr>
+<td class="bRpadL">Bubbly</td>
+<td class="bR" align="center">14 - 46</td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td class="bRpadL">Creamy</td>
+<td class="bR" align="center">16 - 48</td>
+<td align="center">21</td>
+</tr>
+<tr>
+<td class="bRpadL">Iodine</td>
+<td class="bR" align="center">41 - 70</td>
+<td align="center">68</td>
+</tr>
+<tr>
+<td class="bRpadL">INS</td>
+<td class="bR" align="center">136 - 165</td>
+<td align="center">137</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table id="tblQualitiesRight" border="0" cellspacing="0" cellpadding="1">
+<tbody>
+<tr>
+<td class="bRpadL" width="60%">Lauric</td>
+<td class="rightAlignFAs">8</td>
+</tr>
+<tr>
+<td class="bRpadL">Myristic</td>
+<td class="rightAlignFAs">3</td>
+</tr>
+<tr>
+<td class="bRpadL">Palmitic</td>
+<td class="rightAlignFAs">18</td>
+</tr>
+<tr>
+<td class="bRpadL">Stearic</td>
+<td class="rightAlignFAs">3</td>
+</tr>
+<tr>
+<td class="bRpadL">Ricinoleic</td>
+<td class="rightAlignFAs">0</td>
+</tr>
+<tr>
+<td class="bRpadL">Oleic</td>
+<td align="center">54</td>
+</tr>
+<tr>
+<td class="bRpadL">Linoleic</td>
+<td class="rightAlignFAs">10</td>
+</tr>
+<tr>
+<td class="bRpadL">Linolenic</td>
+<td class="rightAlignFAs">1</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+Blended lye and oils when both btw 105-108 degrees.
+
+&nbsp;
+
+From:
+http://www.soapqueen.com/bath-and-body-tutorials/cold-process-soap/testing-1-2-3/  - "This is a really great basic recipe that I frequently use for testing. It makes a nice, hard bar of soap and with the high percentage of Olive Oil it traces slowly, which gives me plenty of working time. "

@@ -1,0 +1,50 @@
+Title: Jambalaya Pasta
+Pub date: January 6, 2012
+Category: Pasta, Recipes, 
+
+If not using shrimp divide the 1 lb that is called for between the chicken and andouille
+
+1/4 cup plus 3/4 teaspoon salt, divided
+1 pound dry penne rigate
+3 tablespoons olive oil, divided
+1 pound peeled, deveined large shrimp
+2 tablespoons plus 1 teaspoon Essence, divided, recipe follows
+3/4 pound boneless, skinless chicken breast, 1-inch diced (1 1/2 lb if no shrimp)
+12 oz andouille sausage, diced into 1/2-inch pieces(1 lb if no shrimp)
+1/2 cup yellow onion, small diced
+1/2 cup green bell pepper, small diced
+1 tablespoon minced garlic
+1/2 cup chicken stock
+1 (14.5-ounce) can diced tomatoes
+1 tablespoon freshly chopped thyme leaves
+1/2 cup heavy cream
+2 tablespoons freshly chopped basil leaves
+1/2 cup grated Parmesan
+
+Fill a large, 1-gallon stock pot with a pasta insert, 3/4 full with water. Bring to a boil over high heat and add 1/4 cup of the salt as it boils. Place the penne in the salted water and return to a boil, stirring occasionally. Cook the pasta until nearly al dente, 10 to 12 minutes. Drain and set aside, reserving 1 cup of the pasta cooking water.
+
+While the pasta cooks, set a 14-inch saute pan over medium-high heat and add 1 tablespoon of theolive oil, swirl the pan to evenly coat with the oil. Season the shrimp with 2 teaspoons of the Essence and 1/8 teaspoon salt. Place the shrimp in the pan and sear for 1 minute per side. Remove the shrimp from the pan and set aside. Add another tablespoon of the olive oil to the saute pan and season the chicken breast with 2 teaspoons of the Essence and 1/8 teaspoon of the salt. Place the chicken breast in the pan and sear for 3 minutes, turning to ensure even browning. Remove the chicken from the pan and set aside with the seared shrimp.
+
+Place the remaining tablespoon of olive oil in the saute pan and add the sausage, onions and bell peppers. Saute, stirring occasionally, until the sausage is lightly caramelized and the onions are translucent, about 3 minutes. Add the garlic to the pan and saute for 30 seconds. Add the chicken stock to the pan and scrape with a spoon to remove any browned bits that have formed in the bottom of the pan, about 30 seconds. Add the diced tomatoes, fresh thyme, the remaining tablespoon of Essence and 1/2 teaspoon salt and cook for 2 minutes. Add the heavy cream to the pan and cook an additional 2 minutes. Return the shrimp and chicken to the pan, as well as the nearly al dente pasta and the reserved 1 cup of pasta cooking water. Continue to cook the sauce and pasta, stirring occasionally, until the shrimp and chicken are cooked through, the pasta is al dente and most of the pasta cooking water has evaporated, about 3 minutes. Remove from the heat and add the basil and Parmesan. Toss to combine and serve while hot.
+
+Emeril's ESSENCE Creole Seasoning (also referred to as Bayou Blast):
+
+2 1/2 tablespoons paprika
+
+2 tablespoons salt
+2 tablespoons garlic powder
+1 tablespoon black pepper
+1 tablespoon onion powder
+1 tablespoon cayenne pepper
+1 tablespoon dried oregano
+1 tablespoon dried thyme
+
+Combine all ingredients thoroughly.
+
+Yield: 2/3 cup
+
+Recipe from "New New Orleans Cooking", by Emeril Lagasse and Jessie Tirsch
+
+Published by William Morrow, 1993.
+
+http://www.foodnetwork.com/recipes/emeril-lagasse/jambalaya-pasta-with-penne-chicken-shrimp-and-andouille-recipe/index.html

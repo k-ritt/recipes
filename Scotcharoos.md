@@ -1,0 +1,15 @@
+Title: Scotcharoos
+Pub date: February 7, 2012
+Category: Dessert, Recipes, 
+
+1 1/2 cup pb
+1 cup sugar
+1 cup light corn syrup
+6 cups rice crispies
+11 oz. pkg butterscotch chips
+1 cup semi- sweet chips
+
+Coat 9x13 pan with cooking spray.
+Combine pb, sugar, and corn syrup in large saucepan. Cook over med-low heat, stirring frequently, until melted. Remove from heat. Add cereal; stir until thoroughly coated. Press onto bottom of pan.
+
+Microwave butter./semi- sweet chips together for 1 min., stir. Microwave at additional 20 sec intervals, stirring until smooth. Spread over cereal mixture and let harden.

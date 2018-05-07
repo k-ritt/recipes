@@ -1,0 +1,34 @@
+Title: Mel&#8217;s Chicken Pasta Salad
+Pub date: July 20, 2014
+Category: Chicken, Pasta, Recipes, Salad, 
+
+Updated recipe 08/14
+
+1# ruffle or spiral pasta (cooked)
+2 c (approx 1 #) chopped, cooked chicken
+6-8 strips bacon, chopped, cooked, drained
+2-3 c fresh spinach, julienne (I use more)
+½ c ripe olives, optional
+8oz Monterrey jack cheese, shredded
+
+Dressing -- whisk together the following:
+
+2 t dijon mustard
+½ c tarragon vinegar (white tastes better than red)
+1 c  oil (EVOO added too much flavor but may have been too much oil)
+1 t salt
+3/4 t pepper
+¼ t sugar
+½ t garlic powder
+
+1.  Combine pasta through cheese in a very large bowl.
+
+2.  Add dressing
+
+&nbsp;
+
+Note: tastes much best after flavors have combined overnight in fridge.  If you are preparing this ahead of time, do not add spinach until a couple of hours before you're ready to eat salad as it tends to get soggy.
+
+&nbsp;
+
+&nbsp;

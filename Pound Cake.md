@@ -1,0 +1,12 @@
+Title: Pound Cake
+Pub date: February 9, 2013
+Category: Dessert, Recipes, 
+
+Used this recipe:
+http://www.ezrapoundcake.com/archives/633
+Baked in a tube pan, for at least an hour, took it out around 200 degrees, let it cool 20 minutes but had trouble getting it out of the tube pan (not because it was sticking but fell apart, thought it was underdone but seemed not to be once cooled) may not have been unmolding it correctly
+Taste was excellent.  Thick crust on top.
+Try loaf pans next time?
+
+This recipe looked like a good, traditional pound cake (verses the sour cream one above):
+http://www.wellseasonedlife.com/2011/03/classic-mamas-pound-cake.html

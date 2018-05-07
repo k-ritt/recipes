@@ -1,0 +1,30 @@
+Title: Hot Fudge
+Pub date: April 19, 2016
+Category: Dessert, Recipes, 
+
+150 grams 70% dark chocolate
+100 grams butter
+100 grams unsweetened cocoa powder
+100 ml milk
+150 ml cream
+300 grams sugar
+
+US Recipe:
+5-1/2 ounces 70% dark chocolate
+7 Tbs butter
+1 cup unsweetened cocoa powder
+1/2 cup milk
+1/2 cup plus 2 Tbs heavy cream
+1 1/3 cups sugar
+
+In the top of a double-boiler, gently melt together the chocolate and the butter.  Add the cocoa powder, and whisk to combine
+
+Ina  medium saucepan, heat milk, cream and sugar, stirring until the mixture boils.
+
+Add the hot milk mixture to the chocolate in several small additions--this will look like a mess at first, clumpy and goopy, but just keep whisking with confidence, and it will all come right in the end.  Keep stirring until the sauce is smooth and shiny.
+
+The hot fudge keeps in the fridge for weeks; it also freezes beautifully.  Reheat in the microwave or in a hot-water bath.
+
+--taken from <em>Picnic in Provence</em> by Elizabeth Bard
+
+&nbsp;

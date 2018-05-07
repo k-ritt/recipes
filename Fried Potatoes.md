@@ -1,0 +1,24 @@
+Title: Fried Potatoes
+Pub date: August 18, 2012
+Category: Recipes, 
+
+2 Tbs vegetable oil or bacon grease
+2 pounds russet potatoes, peeled and cut into 1/4 inch cubes
+1/2 tsp kosher salt, plus more to taste
+Black pepper, to taste
+For Mexican Fried Potatoes:
+1 jalapeno chile, seeds and stems removed, diced
+4 garlic cloves, minced
+1/2 cup crushed canned tomatoes, drained
+1/2 tsp cumin
+1/4 tsp smoked paprika
+2 tsp white vinegar
+1/4 cup chopped cilantro
+
+1. In large skillet, preferable cast-iron, heat the oil on medium-low heat.  When warm add the potatoes and 1/2 tsp kosher salt, and while stirring occasionally, cook uncovered for 10 minutes.
+
+2.  Stir in the onions and cook for 2 more minutes (if making mexican fried potatoes stir in the jalapeno, garlic, tomatoes, cumin and smoked paprika and cook for 30 more seconds).  Turn the heat to low and cook covered for 15 minutes.
+
+3.  Remove the cover and stir, scraping up any potatoes that may be stuck to the bottom.  Cook uncovered for 10 minutes or until the potatoes are your preferred texture.  (For mexican, stir in the vinegar, and chopped cilantro).  Add pepper, taste and adjust seasonings.
+
+From: The Homesick Texan Cookbook, Lisa Fain

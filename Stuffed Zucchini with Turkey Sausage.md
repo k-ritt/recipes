@@ -1,0 +1,30 @@
+Title: Stuffed Zucchini with Turkey Sausage
+Pub date: July 20, 2014
+Category: Recipes, Vegetable, 
+
+1 zucchini about 12 inches long, or 6 medium ones
+3 tablespoons olive oil
+1/2 cup chopped onion
+3 cloves garlic, minced
+1/2 cup chopped mushrooms
+2 tablespoons dry white wine
+1 pound ground turkey
+2 diced tomatoes
+3 tablespoons chopped fresh basil
+1 teaspoon chopped fresh rosemary
+3/4 cup grated Parmesan cheese
+1 egg, lightly beaten
+2 teaspoons salt
+2 teaspoons pepper
+
+1.  Cut zucchini in half lengthwise. Scoop out insides, leaving shells about 1/4 inch thick. Reserve about half of the insides.
+
+<b>2.</b> Heat 2 Tbsp of olive oil in a skillet on medium high heat. Sauté onion and garlic until soft. Add mushrooms and reserved zucchini insides, and sauté another 2 minutes.
+
+<b>3. </b> In a separate skillet heat a Tbsp of olive oil on medium high heat. Add the ground turkey. Lightly brown the turkey, stirring only occasionally. After the turkey browns on one side, stir it so that it has a chance to brown on other sides. Cook until the ground turkey is lightly browned, about 6 minutes. Stir in the onion and mushroom mixture from the other pan. Add the wine. Stir in tomato, basil and rosemary and cook 1 minute longer. Drain any excess fat. Remove mixture from heat and set it aside.
+
+<b>4. </b> When mixture has cooled, add cheese, egg, salt and pepper. Fill zucchini shells with mixture. Fill a baking pan with 1/4 inch of water. Place filled zucchini halves in pan and bake at 375 degrees for 40 minutes, until golden brown. Remove zucchini from pan and serve while hot.
+
+Serves 4.
+
+&nbsp;

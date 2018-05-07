@@ -1,0 +1,135 @@
+Title: Nourishing CP Soap
+Pub date: November 25, 2012
+Category: Soap, 
+
+<table id="results">
+<tbody>
+<tr>
+<td>Almond Oil (Sweet)</td>
+<td>2.00oz</td>
+<td>04.8%</td>
+</tr>
+<tr>
+<td>Avocado Oil</td>
+<td>2.00oz</td>
+<td>04.8%</td>
+</tr>
+<tr>
+<td>Coconut Oil (76 Degrees)</td>
+<td>8.00oz</td>
+<td>19.0%</td>
+</tr>
+<tr>
+<td>Hempseed Oil</td>
+<td>2.00oz</td>
+<td>04.8%</td>
+</tr>
+<tr>
+<td>Olive Oil</td>
+<td>16.00oz</td>
+<td>38.1%</td>
+</tr>
+<tr>
+<td>Palm Oil</td>
+<td>8.00oz</td>
+<td>19.0%</td>
+</tr>
+<tr>
+<td>Shea Butter (Refined)</td>
+<td>4.00oz</td>
+<td>09.5%</td>
+</tr>
+<tr>
+<td>0% Lye (Sodium Hydroxide) Amount</td>
+<td>6.060oz</td>
+<td></td>
+</tr>
+<tr>
+<td>Ounces of liquid recommended</td>
+<td>13.86oz</td>
+<td></td>
+</tr>
+<tr>
+<td>Yields</td>
+<td>61.92oz</td>
+</tr>
+</tbody>
+</table>
+Added 2 oz vitamin E with along with other oils(calculator doesn't include vit E - question about replacing it : "Vitamin E oil doesn't saponify like the rest of the vegetable oils so I would recommend no more than than 1 oz. per pound of soap as a superfatting ingredient rather than replacing any of the oils with it.")
+
+Original recipe calls for wheat germ oil.  Have never used.
+
+Made 04/26/2012 with 1.82 oz Cucumber Melon Fragrance (didn't blend well with the scents of the oils, esp hempseed, though avocado oil may have been on edge of rancid so that may have contributed to unpleasant scent)
+
+Made 11/25/2012 with 1.82 oz Energy Fragrance (purchased refined hempseed from brambleberry so not much of an odor)
+
+Made 07/06/2013 with 2 oz unrefined wheat germ oil.  Added a slight fragrance.  And used a 5% superfat (6 oz lye).  Also, 1.84 oz Vitamin E (not pure, had some other oils in the ingredient list).
+---------
+
+Made 12/13/13
+<table id="results">
+<tbody>
+<tr>
+<td>Almond Oil (Sweet)</td>
+<td class="amount">2.08oz</td>
+<td class="percent">4.67%</td>
+</tr>
+<tr>
+<td>Avocado Oil</td>
+<td class="amount">2.02oz</td>
+<td class="percent">4.54%</td>
+</tr>
+<tr>
+<td>Coconut Oil (76 Degrees)</td>
+<td class="amount">8.04oz</td>
+<td class="percent">18.05%</td>
+</tr>
+<tr>
+<td>Hempseed Oil</td>
+<td class="amount">2.04oz</td>
+<td class="percent">4.58%</td>
+</tr>
+<tr>
+<td>Olive Oil (Pomace)</td>
+<td class="amount">16.20oz</td>
+<td class="percent">36.37%</td>
+</tr>
+<tr>
+<td>Palm Oil</td>
+<td class="amount">8.14oz</td>
+<td class="percent">18.28%</td>
+</tr>
+<tr>
+<td>Shea Butter (Refined)</td>
+<td class="amount">4.12oz</td>
+<td class="percent">9.25%</td>
+</tr>
+<tr>
+<td>Wheat Germ Oil</td>
+<td class="amount">1.90oz</td>
+<td class="percent">4.27%</td>
+</tr>
+<tr class="recommended">
+<td>5% Lye (Sodium Hydroxide) Amount</td>
+<td>6.078oz</td>
+<td></td>
+</tr>
+<tr class="water">
+<td>Ounces of liquid recommended</td>
+<td>14.70oz</td>
+<td></td>
+</tr>
+<tr class="yield">
+<td>Yields</td>
+<td>65.32oz</td>
+</tr>
+</tbody>
+</table>
+Total Oil Weight 44.54 oz
+
+Lye temp 115 (soap queen says 120 as target, and oils and lye need to be within 5 degrees of each other)
+
+Too much for dovetail mold.  Use oil weight of 40 oz, or total weight around 60 oz)
+
+From:
+http://www.soapqueen.com/bath-and-body-tutorials/cold-process-soap/my-favorite-cold-process-recipes-2/

@@ -1,0 +1,27 @@
+Title: Paneer
+Pub date: January 6, 2013
+Category: Recipes, Vegetarian, 
+
+4 cups Fresh whole milk
+2-3 tbsp lime/lemon juice
+
+Heavy deep bottom pan
+Cheesecloth
+Wooden spoon to stir
+
+Heat the milk in the deep and heavy bottom  pan at medium heat. Let it come to a gentle boil and stay there for a minute. Make sure the milk is not vigorously boiling. If it does, reduce the heat and bring the milk back to gentle boil.
+
+Add one tablespoon of juice and quickly stir it in. At this point, you will start to see small curdles in the milk but no whey. Add another tablespoon of juice and again stir it in. The curdles will increase and you will slowly begin to see the greenish whey. Add the last tablespoon of juice and with this, you should be able to see a clear greenish whey separating from the curdles, switch of the gas immediately at this point. Depending on the acidity of the juice, the amount of juice you require may differ. Start with one tablespoon at a time till you achieve the results.
+
+Line another pan with double layered cheesecloth. Make sure the cheesecloth is long enough to be bundled up and hanged later. Run the whey through the cloth which will collect all the curdles. Wash the curdles, by running it through cold water to remove the lemon taste.
+
+Tie up the cheesecloth in a tight bundle and let it drain for about 30 minutes. Then place weight on the cheese to get it to be flatter and drain out extra moisture. I generally place it between two cutting board and add heavy pot on top for 1-2 hour.You don't want to add too much weight for too long as it can drain out way too much moisture from the cheese making it hard and crumbly.
+
+Wrap it and store it in the fridge for upto a week. But I certainly prefer to use it as early as possible.
+
+For using in curries, cut them into similar size cubes. You might want to trim out those irregular edges to get even cubes. Keep those irregular edges and crumbles, I have a recipe for that coming up!
+
+Tip: Use the leftover whey for pancakes, making roti or other bread, add to smoothies, thin out yogurt with the whey for yogurt drinks, or use it to water the plants.
+
+
+<em>From</em> http://www.journeykitchen.com/2011/11/how-to-make-paneer-at-home.html

@@ -1,0 +1,33 @@
+Title: Karen&#8217;s Breakfast Casserole
+Pub date: November 26, 2012
+Category: Breakfast, Recipes, 
+
+Thicker, "breadier" version than the original.
+
+3/4 pound breakfast sausage
+6 eggs
+1 cup milk
+1 1/2 cups cheddar cheese, grated
+1 tsp dry mustard
+1 tsp salt
+6 slices white sandwich bread, crusts removed, cut into 1 inch cubes
+
+1.  Brown sausage and drain.
+2.  Beat eggs, milk, mustard and salt.
+3.  Stir in 1 cup cheese, and cubed bread.
+4.  Pour into a greased 8x8 casserole.
+5. Top with remaining 1/2 cup cheese.
+6.  Cover and place in refrigerator overnight.
+7.  Uncover and bake at 325 for 45 minutes or until bubbly around the edges and cooked through.
+
+&nbsp;
+
+Alt:
+9 eggs
+1 1/2 cups milk
+1 # sausage
+1 1/2 tsp salt
+1 1/2 tsp dry mustard
+6 slices of bread
+
+cook in 7x11

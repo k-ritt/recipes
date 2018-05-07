@@ -1,0 +1,38 @@
+Title: Shrimp Creole
+Pub date: October 24, 2015
+Category: Recipes, Seafood, 
+
+4 ounces (1 stick) unsalted butter
+2 cups chopped onions
+1 cup chopped green bell pepper
+1 cup chopped celery
+1 teaspoon salt
+1/2 teaspoon cayenne pepper
+2 bay leaves
+one 14.5-ounce can diced tomatoes
+1 tablespoon chopped garlic
+1 teaspoon Worcestershire Sauce
+1 teaspoon hot sauce,or to taste
+2 tablespoons all-purpose flour
+1 cup water
+1 cup shrimp stock
+2 1/2 pounds peeled and deveined large shrimp
+1 tablespoon Emeril's Essence Creole Seasoning
+1/2 cup chopped green onions
+2 tablespoons chopped parsley
+4 cups cooked long-grain white rice
+
+&nbsp;
+
+In a large sauce pan, over medium heat, melt the butter. Add the onions, peppers, and celery to the pan. Season the vegetables with salt and cayenne. Saute the vegetables until they are wilted, about 6 to 8 minutes. Stir in the bay leaves, tomatoes, and garlic. Bring the mixture to a boil and reduce to a simmer; continue to cook for 15 minutes.
+
+&nbsp;
+
+In a small bowl whisk the flour and water together and add the mixture to the tomatoes. Cook for 4 to 5 minutes. Add the shrimp stock, Worcestershire and hot sauce and continue to cook for 10 minutes longer. Season the shrimp with Essence and add them to the pot. Cook the shrimp until they are pink and cooked through,about 6 to 7 minutes. Stir in the green onions and parsley.
+
+&nbsp;
+
+Serve with white rice.
+
+Notes:
+10/24/2015 - Double the sauce and 1 1/2 times the rice.  Spice just right.  Maybe add salt for more depth of flavor, or let simmer/sit longer before adding shrimp to let flavors meld.

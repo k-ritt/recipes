@@ -1,0 +1,33 @@
+Title: Black Bean and Sweet Potato Burritos
+Pub date: May 10, 2016
+Category: Recipes, Vegetarian, 
+
+2 sweet potatoes, peeled and cubed small (about 3-4 cups)
+1 jalapeno, seeded and finely diced
+1 red pepper, diced small
+1 small red onion, diced small (about 1/2 cup)
+2 teaspoons olive oil
+1 teaspoon cumin
+1 teaspoon chili powder
+1/2 teaspoon salt
+1/4 teaspoon black pepper
+1 (15 ounce) can black beans, rinsed and drain
+1/4 - 1/2 cup chopped cilantro (depending on your taste)
+2 teaspoons fresh lime juice (from about 1 lime)
+1 cup shredded cheddar cheese
+1 cup shredded Monterey Jack cheese
+6-8 burrito-size tortillas
+
+Preheat the oven to 425 degrees F.
+
+In a large bowl, toss together the sweet potatoes, jalapeno, red pepper and red onion with the olive oil, cumin, chili powder, salt and pepper. Dump the coated veggies onto a large rimmed baking sheet and roast for 18-20 minutes, tossing halfway through. The vegetables should be tender but not mushy at the end of cooking time.
+
+Let the vegetable mixture cool. Scrape the mixture into a large bowl and toss with the black beans, cilantro and lime juice. Taste the mixture and add additional salt and pepper to taste, if needed. Refrigerate the mixture until ready to assemble the burritos or use immediately.
+
+Place 3-4 tortillas on a microwave-safe plat and cover with a damp paper towel. Microwave for 15-20 seconds until the tortillas are pliable. Place 1/4 cup or so of the vegetable mixture in the center of the tortilla and top with a sprinkle with shredded cheese, a little of each kind.. Fold in the sides of the tortilla and roll up. Place seam-side down on a baking sheet. Repeat with the remaining tortillas until you have all the burritos you need (the filling can be refrigerated and used for 3-4 days).
+
+Bake in a 375 (or 425 as preheat directions say?) degree F oven for about 10-15 minutes, until heated through and the top of the tortilla is golden brown. Adjust the baking time as needed depending on if the filling has been refrigerated or not. For a softer tortilla, wrap each burrito in tin foil and heat through. Serve immediately.
+
+&nbsp;
+
+~<em>taken from http://www.melskitchencafe.com/black-bean-and-sweet-potato-burritos/</em>

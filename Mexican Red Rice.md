@@ -1,0 +1,23 @@
+Title: Mexican Red Rice
+Pub date: November 3, 2012
+Category: Recipes, Rice, 
+
+3/4 cup crushed tomatoes, drained
+1/4 medium yellow onion
+2 cloves garlic
+1 canned chipotle chili in adobo
+1/2 teaspoon cumin
+Pinch of ground cloves
+1 Tablespoon lime juice
+1 Tablespoon lard or vegetable oil
+1 cup uncooked rice
+2 cups chicken broth
+Salt, to taste
+
+1.  Add to a blender the tomatoes, onion, garlic, chipotle chili, cumin, cloves and lime juice.  Puree until a thick paste forms.  Remove tomato puree from blender and measure.  You chould have about 1/2 cup.
+
+2.  Heat up the lard or vegetable oil in a heavy-bottomed pot on medium-low heat.  Add the rice and saute for 30 seconds.  Add the tomato puree and while stirring, cook for 1 minute.
+
+3.  Pour in the chicken broth, bring to a boil, and then cover the pot, turn the heat down to low, and simmer for 20 minutes.  Turn off the heat and let it sit for 10 more minutes.  Stir the rice to incorporate any tomato puree that's accumulated on top and then salt to taste.
+
+Taken from the Homesick Texan Cookbook.

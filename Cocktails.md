@@ -1,0 +1,15 @@
+Title: Cocktails
+Pub date: May 31, 2015
+Category: Beverages, Recipes, 
+
+Margarita
+1:1:1 Lime juice, Tequila, Cointreau
+
+Tom Collins
+3/4 oz Lemon Juice
+1 1/2 oz Gin
+3/4 oz Simple Syrup
+Topped off with Club Soda
+
+Rickey
+1:2:4  Lime Juice, Cointreau, Club Soda

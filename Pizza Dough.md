@@ -1,0 +1,19 @@
+Title: Pizza Dough
+Pub date: February 7, 2012
+Category: Bread, Recipes, 
+
+Makes 2 12” Pizzas
+
+
+1 ½ cups of warm water (110-115 F)
+2 T Sugar
+1 Packet of active dry yeast (2 ¼ t)
+1 ½ t Salt
+2 T Olive Oil
+4 Cups of All Purpose Flour (use bread flour for a chewier crust)
+
+Pour warm water, sugar and yeast into a bowl and stir and let sit for 10 minutes. Make sure yeast is ‘active’ by making sure a foamy head appears on surface.
+
+Add salt, olive oil to bowl and stir. Add one cup of flour at a time and stir to combine. It’s helpful to have a mixer to do this work for you – like a whirlpool mixer with the dough hook, if not knead by hand. After you add the 4th cup of flour, knead for about 10 minutes. It should be very smooth texture and about the size of the grapefruit. Split into two small balls and place each in a slightly oiled bowl. Be sure to get a bit of oil on the outer dough ball so it doesn’t dry out. Put plastic wrap over bowl and let rise for 75 min.
+
+Roll out dough and place in a pre-heated 500 degree oven (I let the oven preheat for 1 hr with cooking stone inside). I also place dough on parchment on a rimless cookie sheet and slide parchment and dough onto the stone. Bake about 5 minutes.  Remove from oven and top with favorite sauce and toppings.  Return to oven, remove parchment and bake until crust is golden brown and cheese is melted.

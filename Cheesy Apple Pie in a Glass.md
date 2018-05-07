@@ -1,0 +1,29 @@
+Title: Cheesy Apple Pie in a Glass
+Pub date: July 20, 2014
+Category: Dessert, Recipes, 
+
+Yield:  4 servings
+
+4 cups thinly sliced peeled Red Delicious apple (about 2 apples)
+2/3 cup apple juice
+1/4 cup packed brown sugar
+3 tablespoons raisins
+1 teaspoon ground cinnamon
+1/2 teaspoon ground nutmeg
+1/2 teaspoon ground allspice, divided
+1 1/2 teaspoons vanilla extract
+1/4 teaspoon rum flavoring
+3 ounces mascarpone cheese
+3/4 cup cinnamon crisp graham cracker crumbs (about 8 crackers), divided
+
+1 cup vanilla ice cream
+
+Mascarpone cheese (optional)
+
+&nbsp;
+
+Combine first 6 ingredients and 1/4 teaspoon allspice in a medium saucepan. Cook 20 minutes over medium-low heat until apples are tender and mixture is slightly thick. Remove apple mixture from heat; let cool. Stir in 1/4 teaspoon allspice, vanilla, rum flavoring, and mascarpone.
+
+Spoon 1/4 cup apple mixture into each of 4 parfait glasses; sprinkle each with 1 1/2 tablespoons crumbs. Top each with 1/4 cup yogurt, 1/4 cup apple mixture, and 1 1/2 tablespoons crumbs. Garnish with additional mascarpone cheese, if desired. Serve immediately.
+
+&nbsp;

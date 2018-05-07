@@ -1,0 +1,86 @@
+Title: Funfetti Cupcakes
+Pub date: October 24, 2011
+Category: Dessert, Recipes, 
+
+<div>
+<h1><span class="Apple-style-span" style="font-size: 13px; font-weight: normal;">http://www.thecurvycarrot.com/2011/08/22/funfetti-cupcakes/</span></h1>
+</div>
+<div>
+
+I have seen homemade funfetti cupcakes floating around on lots of food blogs recently, and I was dying to try them for myself.  Recently, for a coworker’s birthday celebration at work, he gave me free reign with the flavor of his birthday cupcake, only requesting for the final design to have lots of color in it.  Obviously,  my opportunity for trying my own homemade funfetti cupcakes had arrived.
+
+From most of the blogs I had read about these cupcakes, I knew I could use a simple white cake recipe for the base.  I didn’t want anything too incredibly sweet, though, because I knew the sprinkles in the batter would add a lot to the overall sweetness of the cupcake.  I went with Baking Illustrated’s version of simple white cake with a hint of almond flavor.  The consistency was light and fluffy but held up the sprinkles really well.  For the frosting, I toyed with the idea of using a Swiss meringue buttercream for the texture, but in the end I went with a light and fluffy simple vanilla buttercream: the kind I remember from store-bought birthday cakes (minus the shortening and using fresh butter instead) of my childhood.  (I love that frosting, and I always will.)
+
+In the end, these may be one of my favorite cupcakes to date.  True, they are not too involved and were done in about an hour, but the flavor combinations and colorful sprinkles really added a cheerful and childlike appeal to them-these really are the perfect little cupcakes for a birthday party: kid and grown-ups alike.
+
+<strong>Funfetti Cupcakes</strong>
+
+Servings: approximately 18 cupcakes
+
+<strong>Ingredients</strong>
+
+<strong>For the cupcakes:</strong>
+
+2 and 1/4 cups cake flour
+
+1 cup milk, at room temperature
+
+6 large egg whites, at room temperature
+
+2 teaspoons almond extract
+
+1 teaspoon vanilla extract
+
+1 and 3/4 cups granulated sugar
+
+4 teaspoons baking powder
+
+1 teaspoon salt
+
+12 tablespoons (1 and 1/2 sticks) unsalted butter, softened but still cool, cut into 1-tablespoon pieces
+
+1/3  cup colored sprinkles (preferably Jimmies)
+
+<strong>For the vanilla buttercream:</strong>
+
+16 tablespoons (2 sticks) unsalted butter, softened but still cool
+
+4 cups (1 pound) confectioners’ sugar
+
+1 tablespoon vanilla extract
+
+1 tablespoon milk
+
+Pinch of salt
+
+Sprinkles, for garnish
+
+<strong>Instructions</strong>
+
+1. <strong>For the cake:</strong> Preheat the oven to 350 degrees.
+
+2. Line your cupcake pan with the desired liners of your choice.
+
+3. In a 2-cup measuring cup, combine the milk, egg whites, and almond and vanilla extracts, whisking until well-combined.
+
+4. In the bowl of your standing mixer fitted with the paddle attachment and on low speed, combine the  flour, granulated sugar, baking powder, and salt.
+
+5. Add the butter, one piece at a time, until the mixture resembles coarse sand.
+
+6. Add all but 1/2-cup of the milk mixture to the batter and beat at medium-high speed for about 2 minutes.
+
+7. Add the remaining milk mixture and mix at medium speed, scraping down the sides of the bowl as necessary.
+
+8. With a rubber spatula, gently fold in the sprinkles until thoroughly combined.
+
+9. Divide the mixture evenly among your cupcake liners and bake until a tester inserted into the center comes out clean, about 18-22 minutes. Let cool completely.
+
+10. <strong>For the frosting:</strong> In the bowl of your standing mixer fitted with the paddle attachment, combine the butter, confectioners’ sugar, vanilla, milk, and salt on low speed until combined.
+
+11. Increase the mixer speed to medium-high and beat until light and fluffy, about 90 seconds or so.
+
+12. Pipe as desired onto the completely cooled cupcakes. Decorate with additional sprinkles.
+
+Source:  Adapted from Baking Illustrated.
+
+</div>

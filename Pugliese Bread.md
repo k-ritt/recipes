@@ -1,0 +1,128 @@
+Title: Pugliese Bread
+Pub date: December 11, 2011
+Category: Recipes, 
+
+taken and adapted from http://artisanbreadbaking.com/bread/pugliese/
+
+<strong>Pugliese bread</strong> is a rustic bread from the south of Italy. It is a fairly <strong>wet dough</strong>, 72.5% hydration, and challenging to make without a mixer.
+
+The bread is traditionally a large wheel or round, but I make three smaller rounds.
+
+As noted below, if you want larger holes in the finished bread, be very gentle with the folds.
+<h3>Biga</h3>
+<table>
+<tbody>
+<tr>
+<th>Ingred</th>
+<th>Ounces</th>
+<th>Grams</th>
+</tr>
+<tr>
+<td>King Arthur AP Flour or Bread flour</td>
+<td>??</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Durum Flour</td>
+<td>??</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Water</td>
+<td>6</td>
+<td></td>
+</tr>
+<tr>
+<td>Dry Yeast</td>
+<td>1/2 tsp</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<h3>Dough</h3>
+<table>
+<tbody>
+<tr>
+<th>Ingred</th>
+<th>Ounces</th>
+<th>Grams</th>
+</tr>
+<tr>
+<td>Biga</td>
+<td>14 1/8</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Yeast</td>
+<td>1 1/4 tsp</td>
+<td>6 ml</td>
+</tr>
+<tr>
+<td>Warm Water</td>
+<td>2 5/8</td>
+<td>75</td>
+</tr>
+<tr>
+<td>King Arthur AP Flour</td>
+<td>??</td>
+<td>650</td>
+</tr>
+<tr>
+<td>Durum</td>
+<td>??</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Water</td>
+<td>24</td>
+<td>680</td>
+</tr>
+<tr>
+<td>Salt</td>
+<td>1 Tbsp+</td>
+<td>24</td>
+</tr>
+</tbody>
+</table>
+<h3>Method</h3>
+1. Make biga at 60% by dissolving yeast in warm water and mixing in with flour. Let stand overnight on the counter.
+
+2. Dissolve yeast in the 75 grams of water in a large mixer bowl and cut up the biga and add it to the bowl. (I add all the biga even if over 400 grams. if over then will need less water)
+
+3. Mix with the paddle for a minute or two.
+
+4. Add half of the flour and then all of the water and mix for a minute or two.
+
+5. Switch to the dough hook, add the rest of the flour and mix for a minute or two, until the dough begins to come together.
+
+6. Cover the bowl and let the dough rest for 25 minutes. (Sometimes skip this step if timing does not permit).
+
+7. Add the salt and knead with the dough hook for 7-10 minutes. The dough will not clear the sides of the bowl, so you may have to turn the dough over once or twice to ensure complete mixing.  The douugh should no be shiny and should have some elasticity.
+
+8. Turn out the dough onto a well-floured work surface. Knead lightly by hand a few times. Cover with a large tupperware container and let rise in a warm environment.
+
+9.  Fold the dough three times throughout rise.  Once at 50 min, again at 60 minutes and a third time at 40 minutes.  For larger holes in the bread, do a very gentle folding.
+
+10. Put a goodly amount of flour on the work surface and cut dough into three equal pieces.
+
+11.  Working with one dough at a time, sprinkle the top with flour and pat the dough flat.  Roll the dough up. Pat it flat again and roll it up again. Do this three times, if possible.  Sometimes two is all I can get. The dough should de-gas and become springy and smooth.
+
+12. Draw the sides of the dough down under the dough and seal the dough very tightly. Invert dough onto parchment lined baking sheet.
+
+13. Repeat with the other dough.
+
+14. Flatten each dough by pressing down with floured palm.  Cover with plastic wrap, or glass bowl, and let rise for 1 hour.
+
+15. 30 minutes before baking, heat the oven to 450 F / 230 C and place tiles or baking stones in the oven.
+
+16. 10 minutes before baking, dimple the tops of the doughs with floured fingers. This will reduce the tendency to rise into basketballs upon baking.
+
+17. Slide, or flip, the doughs into the oven, either onto the stone (or by placing the baking sheet) in the oven, and turn oven down to 425 F.  Bake for 13 minutues, remove parchment and turn loaf.  Bake for another 10  minutes, or until dark, golden brown.
+
+18. Bake a total of 20-25 minutes, depending on your oven, until the loaf is a dark, golden brown.
+
+19.  Repeat with remaining loaves.
+
+20. Let cool for at least 2 hours on racks.
+
+&nbsp;

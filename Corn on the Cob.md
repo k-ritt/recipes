@@ -1,0 +1,16 @@
+Title: Corn on the Cob
+Pub date: July 27, 2017
+Category: Recipes, Uncategorized, Vegetable, 
+
+These instructions are for one ear of corn. If you want to microwave more than one ear at a time, increase the cooking time by 4 minutes for every ear of corn.
+
+
+1 ear of corn, husk on
+
+
+
+1 Place the corn in the microwave, do not remove the husk. Microwave the corn on the high setting for 4 minutes.
+2 Use a kitchen towel or pot holder to remove corn from the microwave (it's hot!) Cut off the bottom of the corn, stem end, about one row of corn in from the stem.
+3 Slip off the husk and silk.
+
+~<em>from Simply Recipes

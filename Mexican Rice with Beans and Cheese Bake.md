@@ -1,0 +1,25 @@
+Title: Mexican Rice with Beans and Cheese Bake
+Pub date: April 19, 2013
+Category: Recipes, Rice, Vegetarian, 
+
+1 Tbs. olive oil
+1 onion, finely chopped
+3 cloves garlic, minced
+1 1/2 cups Lundberg Long Grain Brown Rice
+1 (14.5 oz) can tomatoes with jalapenos, undrained
+2 (15 oz) cans pinto beans, drained
+2 (7 oz) cans chopped green chiles, undrained
+2 1/2 cups water
+1/8 tsp dried red pepper flakes
+2 cups shredded pepper jack cheese
+
+Preheat oven to 350.  Grease a 9x13 baking dish.
+
+Heat olive oil in a large skillet over medium heat and add onions and garlic; cook for 4-5 minutes until onions are translucent.  Transfer to a large bowl.  Stir in rice, tomatoes, beans, and green chiles.
+
+Heat water to boiling and stir into rice/bean mixture; pour into baking dish.  Stir in one cup shredded cheese.
+
+Cover with foil.  Bake for 65-70 minutes or until tender.  Just before serving sprinkle with remaining cheese. Return to oven until cheese is melted.
+
+Note:
+Serve with salsa.

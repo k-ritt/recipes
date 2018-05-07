@@ -1,0 +1,102 @@
+Title: Shaving Soap Recipe and Notes
+Pub date: October 18, 2014
+Category: Soap, 
+
+Taken from:
+http://badgerandblade.com/vb/showthread.php/198520-Home-made-shaving-soap/page8
+
+Hi everyone, this is an OLD thread of mine, but since then I have done two other recipes, that all worked well. However, I now know what works best for ME. Honestly, I have a few commercial and artisan soap and lately I just always seem to grab the ones I made. Also, as it turns out, i'm in the pro clay camp. Clay thrown into regular soap does not make it a shaving soap, but clay thrown into shaving soap makes it a better shaving soap. I like how to skin feels after the shave when there's added clay. I've tried Bentonite and Kaolin. Both are nice. Benonite feels a little nicer, but the soap ends up greyish. Kaolin is better than no clay, and the soap stays white.
+
+I won't be making a commercial venture out of this, so I thought I would share my final recipe for others to try. (i'm an open source software nut too)
+For one pound of shaving soap:
+Oils
+Beef Tallow 165g (33%)
+Stearic Acid 165g (33%)
+Coconut Oil 100g (20%)
+Castor Oil 70g (14%)
+
+Lye
+Sodium Hydroxide (NAOH) 25.2g
+Potassium Hydroxie (KOH) 65.6g
+Distilled/Purified Water 180g
+This is a 35% NaOH to 65% KOH ratio in snowdrift farm's calculator.
+
+I use about 1 "large" TBSP of clay. I create a slurry with the clay using either glycerine or more castor oil. You could probably use any liquid oil you want for this purpose. Don't add to much oil. Just enough so that the clay is no longer a powder. This avoids clay specs in the final product. When that's done, I add them to the oil and stick blend a little bit so that the clay is well dispersed. If you don't like clay... well don't add it :)
+
+If I do any more experimenting, it might be reducing the stearic a little to replace by skin goodies like 5% avocado oil or cocoa butter but for now I have enough soap to last me a couple of years. The latest batch was to give away at christmas. Now I just have to find really inexpensive giveaway brushes.
+
+If anyone would ever like to try this but don't do your own soap, i'm sure we could work something out (I just can't afford the shipping costs these days, my wife is jobless at the moment) or maybe another local member of B&amp;B could make a batch.
+---
+Hi. If you do cold process, idealy you need to keep the oils and lye at the same temperature. Around 42-43C is fine. 48C, while a tad hot probably is OK with Stearic acid too. If you see your lye is cooling down quicker than your oils, what you can do is put a few inches of cold water and ice cubes in the sink and put the oil container in the sink to help it cool down a bit faster. Keep in mind that if your oils get too cold, you can always zap them in the microwave to get the heat back up but you can't do anything with the lye...
+
+Stearic acid with lye traces almost instantly which is why you got mashed potatoes. It's surprising the first time you see this :) Personally I moved to HP because I don't like to have to worry about the temperatures. You can probably find a used crockpot in a yard sale for next to nothing. New ones arent that much either when they are on sale.
+
+The only thing i'm a little worried with your batch is that you mixed with only a spatula. You want to be sure that your lye is completely blended with your oils. You don't any lye pockets in your soap. It would be pretty harsh! I would recommend a stick blender. I bought a cheap 10$ one with a 10$ extended warranty. One of those rare cases where it was worth it.. replaced it twice already. More expensive ones will burn out just as fast lol.
+
+Just out of curiosity, what lye calculator did you use to check your recipe? If you didn't use one, always do. Especially for recipes found online. One typo in the lye quantities and OUCH. I didn't run your recipe through a lye calc to see if it was OK..
+
+After you've unmolded it and cut it, give it at LEAST 3 weeks to cure. It's usually safe (but a little harsh) after two weeks, but you'll find the soap is better after 4 to 6 weeks.
+
+Other than that, i'm sure it will turn out just fine. And Peppermint should be really nice. The first soap I made was eucalyptus and mint. I loved it!
+
+Have fun and if you have any questions let me know!
+
+_------
+And yes, I use 4% Superfat. The thing is with shaving soap, you don't necessarily want too much extra oil so that it doesn't break down your lather. However, you want some margin of error in your lye calculations.
+
+The reason the soap is kind of soft is because of the quantity of Potassium Hydroxide. It will harden up enough to be a solid bar, but it will never be anywhere close to a triple milled soap (which you will never be able to do at home). However, if you've read the entire thread, you might already know that Potassium Hydroxide is more often used than Sodium in commercial soaps, reason being that they better utilise the stearic acids in your oils. You could experiment a bit with the lye ratios to see the results you get. As long as you're over 20% stearic and have a good part of KOH it should be usable shaving soap, whatever you do. I went through 3-4 batches before getting "the" batch I liked. I still use the first soaps.
+
+What you did with the oven was just try to force a "gel stage" with the heat from the oven instead of covering with blankets, etc. It should be fine unless you overcooked it (you would know). Just don't skimp on the cure time. Give it at least three weeks, six if you can wait that long. The Castille soap should cure even longer. You can use it after 3 weeks, but it won't last very long. Some people cure Castille for months.
+
+You see... this is why I shared the recipe originally. I'm a Linux geek and this really isn't that different. I posted my first recipes, got comments, made a better recipe, shared again, got comments and made it even better :) Now you're probably going to create a "fork" of my recipe lol.
+----
+@scalet68i I do add a tiny bit of clay.. but something like a tablespoon for 1.75 pounds of oil. much much less than 13%. I find that if you put a little bit of clay it's beneficial to the soap. Add to much and it becomes drying, and soaks up all the water from your lather. I add about the same amount in glycerin and mix it in with the clay. And yes, I use the same amount of water. You could add more if you find that easier to work with after for molding, but it will add to your cure time and the bars might not turn out as nice in terms of look. I prefer hot process simply because temperatures are not as important as in cold process and it's also much much easier to work with the stearic acid. And don't worry about your english. I'm french canadian and make mistakes in english from time to time!
+---
+Yes, I do put a bit less clay now :) The tablespoon I use is a pretty standard one. A red tupperware spoon. I would imagine they would use exact measures. If everyone was saying "bonjour cousin" you must of been in the Lac St-Jean area (if anyone from Quebec is reading this, forgive me for this really bad joke). The amount of clay is really trial and error and personal preference. Many will say 1 TBSP per pound. I find it's a little too much.
+---
+This is a great thread. Being a recent fan of Linux (2 years) I love the open source idea of development. I work as a chemist in pharmaceutical formulation development and may be able to offer a little help in doing formulation work. I've been making soaps for a couple years now and applied a few different techniques. The procedure below allows for fast and easy evaluation.
+
+Materials Needed:
+Food processor
+Digital scale
+Single oil soaps.
+
+Start by making soap with the individual oils as opposed to blending the oils together. This allows for flexibility in making adjustments. I also do a hot process with the soap and super-fat by 1% but you could do a percentage you feel comfortable with. I end up with multiple bars of a single oil soap (I use potassium hydroxide only for my Stearic acid and sodium hydroxide for the other oils. )
+Then mill the soaps into flakes (a food processor with a grating attachment- works just as well as laboratory mill/extruder)
+
+Then the fun begins:
+I make 100g batches as its easy on the food processor and I don't have too much of something I don't like. Swap the grater blade for the chopping blade and with a digital scale weigh the milled flakes into the food processor.
+Starting with the soaps made with Sodium hydroxide . Pulse to combine, the heat from the blade will help them become malleable and form into small BB gun sized pellets. Then add the Potassium Stearate to the mix. Pulse to combine until you have Pea sized pellets. Then add your additives- I use Glycerin, Jojoba Oil, and fragrance. Let the food processor work until the entire mass combines into a ball. The soap made will be soft and pliable, but will firm up as it cools down. Its best to form it into a puck or in a container while still soft. The finished product is softer than a soap, firmer than a croap, and harder than a cream.
+
+Note: If you have a food processor that is strong enough, you could dump everything in and pulse until it all combines into a ball.
+Warning: Don't use your food processor in the kitchen. Your wife will be extremely displeased. I purchased mine from a discount store specifically for experimental use. Of course, don't put it in the dishwasher for cleaning-because of crazy foaming.<img class="inlineimg" title="Whistling" src="http://badgerandblade.com/vb/images/smilies/yellow_guys3/whistling.gif" alt="" border="0" /> It usually takes 10-15min minutes to make a puck, so you could make quite a few in a couple of hours. I haven't used clay, this weekend I plan on making some soap with clay, so I might make a video to demonstrate the ease of the process.
+
+This is one of my formulas along with a pic of the puck and lather:
+THE SOAPS:
+Tallow : 40g
+Stearic acid: 30g
+Coconut Oil: 10g
+Cocoa Butter: 5g
+Shea Butter: 5g
+Almond Oil: 2g
+Avocado Oil: 2g
+
+THE ADDITIVES:
+Jojoba Oil: 4g (I only super-fat my soaps at 1% so I need additional oil for conditioning- I also have dry skin and Jojoba works the best for my skin)
+Glycerin: 1g (Helps the homogenization of the mix)
+Sandalwood essential oil-1g (for those of you keeping track thats 1% sandalwood- yeah its crazy how good it smells)
+REsponse:
+very nice lather! And it must be pretty sweet to the skin with all those oils/butters. I have to admit your idea is absolutely great for experimenting, but once you've determined the ratios you like, doesn't it take you forever to make 7 batches of soap then combine them? Like me you're using pretty good amounts of tallow and stearic acid which i'm pretty sure helps a lot to prop up your lather and give it some staying power. With that much stearic, you could probably go up to 6,7 maybe even 8% superfat without affecting your lather much. Just out of curiosity, I would try removing the almond oil soap entirely and adding that in as superfat. Same goes for the Coco and shea butter. Those are great as superfatting oils, seems like a bit of a waste saponifying them. Avocado oil i'm undecided yet lol. It's pretty nice saponified or as superfat. COngrats on the soap, how long have you been making it?
+---
+Potassium hydroxide is more or less the same as Sodium Hydroxide. What I usually do is measure the lyes separately, add the Sodium to my water, let it cool down just a bit then add the potassium hydroxide. You could add both at the same type but it tends to get a bit hotter than sodium hydoxide alone.
+
+For tallow, you could render your own. Or try to find a restaurant supply shop.. they will usually either sell it as Tallow, or Beef Shortening. The difference mainly is that the "shortening" is deodorized. No beefy scent in your soaps! I would just make sure no other oils are added to it (Canola for example).
+---
+eShave actually makes pink brushes and razors for women. The LORD L6 is a good DE razor for women because of the long handle (but then again it's not marketed as such). .Soaps with scents for women or unisex are probably easier to find. Half of the scents I make are pretty much unisex, and I'd have a hard time imagining any human being not being able to find a scent they like at Mama Bear's.
+
+My wife uses a DE for her legs and my best friend's wife swears by my shaving soap. She "cheats" every once and a while with a cartridge razor, and it usually shows (blemishes/bumps).
+----
+My lather bubbles are too large when my brush is too wet. I shake most of the water out of my brush and then I get a richer lather.
+
+MrDentini, soaps will be softer if more potassium hydroxide is used, and harder if more sodium hydroxide is used when the fats are being saponified.
+Stearic acid and tallow make the resultant lather smooth, creamy, and stable. I'm not sure about the potassium carbonate, but it might be there to bind up calcium and other minerals, in order to prevent the dreaded "soap scum."

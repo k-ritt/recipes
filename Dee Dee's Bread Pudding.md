@@ -1,0 +1,23 @@
+Title: Dee Dee&#8217;s Bread Pudding
+Pub date: February 14, 2012
+Category: Dessert, Recipes, 
+
+2 cups milk
+2 eggs
+1 tsp vanilla
+½ cup sugar
+
+Mix together and pour into baking dish.
+
+Butter 2 slices of stale dry bread, cut into quarters (leave crusts on) and layer on top of egg mixture
+
+Briefly dunk the pieces into the egg mixture to wet
+
+Sprinkle with cinnamon and tiny bit of nutmeg.
+
+Bake at 350° about ½ hour or until knife comes out clean when stuck into the middle of the custard only part.
+
+Notes:
+-Took closer to 45-50 min in an 8x8 glass baking dish
+-used stale homemade bread, about 8-10 small  (2x2?) pieces
+-buttered the dish

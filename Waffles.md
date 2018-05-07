@@ -1,0 +1,37 @@
+Title: Waffles
+Pub date: October 24, 2011
+Category: Bread, Recipes, 
+
+http://allrecipes.com/recipe/waffles-i/detail.aspx
+<div>Waffles I</div>
+<div>"You can keep the batter, covered, in the fridge for up to a week. Just be sure to whisk well before using again. You may also use whole wheat flour for this recipe."</div>
+<div>INGREDIENTS:</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="50%">
+<div>2 eggs</div>
+<div>2 cups all-purpose flour</div>
+<div>1 3/4 cups milk</div>
+<div>1/2 cup vegetable oil</div></td>
+<td valign="top" width="50%">
+<div>1 tablespoon white sugar</div>
+<div>4 teaspoons baking powder</div>
+<div>1/4 teaspoon salt</div>
+<div>1/2 teaspoon vanilla extract</div></td>
+</tr>
+</tbody>
+</table>
+<div>DIRECTIONS:</div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">1.</td>
+<td valign="top">Preheat waffle iron. Beat eggs in large bowl with hand beater until fluffy. Beat in flour, milk, vegetable oil, sugar, baking powder, salt and vanilla, just until smooth.</td>
+</tr>
+<tr>
+<td valign="top">2.</td>
+<td valign="top">Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden brown. Serve hot.</td>
+</tr>
+</tbody>
+</table>

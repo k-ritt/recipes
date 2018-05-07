@@ -1,0 +1,35 @@
+Title: Squash and Chickpea Moroccan Stew
+Pub date: April 7, 2016
+Category: Recipes, Vegetarian, 
+
+Serves 6 to 8
+
+1 tablespoon unsalted butter
+1 tablespoon olive oil
+1 medium yellow onion, small dice
+4 medium cloves garlic, thinly sliced
+2 teaspoons ground cumin
+1 (3-inch) cinnamon stick
+Salt and freshly ground black pepper
+1 pound butternut squash, large dice
+3/4 pound red potatoes, large dice
+2 cups low-sodium chicken or vegetable broth
+2 cups cooked chickpeas, drained
+1 (14-ounce) can diced tomatoes, with juices
+Pinch saffron threads (optional)
+1/2 preserved lemon, finely chopped
+1 cup brined green olives (Aida recommended Cerignola)
+<a href="http://karen.rittmeyer.net/?p=643">Steamed couscous</a>, for serving
+Fresh cilantro leaves, roughly chopped, for garnish
+Toasted slivered almonds, for garnish
+Plain yogurt, for garnish
+Hot sauce of your choice (for serving)
+
+Heat butter and olive oil in a 3- to 4-quart Dutch oven or heavy-bottomed saucepan with a tight fitting lid over medium heat. When oil shimmers, add onion, garlic, cumin, and cinnamon, and season with salt and freshly ground black pepper. Cook, stirring occasionally, until spices are aromatic and onions are soft and translucent, about 5 minutes.
+
+Add squash and potatoes, season with salt and freshly ground black pepper, stir to coat, and cook until just tender, about 3 minutes. Add broth, chickpeas, tomatoes and their juices, and saffron, if using. Bring mixture to a boil then reduce heat to low. Cover and simmer until squash is fork tender, about 10 minutes.
+
+Remove from heat and stir in preserved lemon and olives. Serve over couscous garnished with cilantro, almonds, and yogurt.
+
+Note:
+"An often not mentioned step in cooking with preserved lemons: you don’t put the peel in with the food.  We were taught to scrape the salty pulp off the softened rind and chop that up for use in the tajine. We cut up the peel as a garnish."

@@ -1,0 +1,29 @@
+Title: Granola
+Pub date: April 7, 2015
+Category: Breakfast, Recipes, 
+
+<div class="ingredients">
+
+4 cups old-fashioned rolled oats (384 grams)
+1-1/2 cups slivered almonds (188 g)
+1 cup shelled, unsalted pistachios
+1 cup unsweetened coconut chips or unsweetened shredded coconut, (or 100 grams sweetened coconut)
+1 tsp. ground cinnamon
+1 tsp. table salt
+1/2 tsp. ground cardamom
+3/4 cup pure maple syrup (235 g)
+1/2 cup olive oil (105 g)
+1/4 cup packed dark brown sugar (51 g)
+3/4 cup dried cherries, preferably unsweetened
+
+Position a rack in the center of the oven and heat the oven to 350°F. Line a large heavy-duty rimmed baking sheet with parchment.
+
+Combine the oats, almonds, pistachios, coconut, cinnamon, salt, and cardamom in a large bowl. Add the maple syrup, oil, and brown sugar and stir well. Spread onto the prepared sheet and bake until just starting to turn golden, about 15 minutes. Turn off the oven. Stir the granola mixture (leaving oven door open to bring the temp down) and pat down firmly with back of spatula to about 1/2", return granola to the oven, and close the door. Let the granola sit in the oven for 6 to 12 hours (the longer it sits the crunchier it gets - I usually take mine out at 6 hours so as to have some larger, chewier pieces/"bars").
+
+Transfer the granola to a large bowl, breaking up any large clumps. Stir in the dried cherries and serve. (Store leftovers in an airtight container for up to 1 month.)
+
+&nbsp;
+
+<em>http://www.finecooking.com/recipes/dried-cherry-coconut-granola.aspx</em>
+
+</div>

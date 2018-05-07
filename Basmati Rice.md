@@ -1,0 +1,76 @@
+Title: Basmati Rice
+Pub date: October 24, 2011
+Category: Recipes, 
+
+http://vegeyum.wordpress.com/2007/10/05/play-nice-with-rice/
+<h1>Play nice with Rice: How To cook rice</h1>
+<div>Posted on October 5, 2007 by Ganga108</div>
+<div>
+
+<em>Remember really gluggy rice? Yes, those were the days. Good rice does not exactly make a meal, but poorly cooked rice sure does spoil it. I took me a long time to be able to cook rice consistently well. I used to put it into buckets of boiling water, cook it rapidly, strain it when done and then hope for the best. Sound familiar?</em>
+
+<em>These days, rice cookers can take any guess work out of the process, and they are great. BUT I still like the art of the stovetop method. It is not hard at all. Someone taught the most amazing method to me – once you have mastered it you will never have gluggy rice again. I have forgotten the name of the person but not the method for cooking rice. Hmmm. I wonder where my <strong>priorities</strong> lie?</em>
+
+<strong><em>Notes on the recipe
+</em></strong>The method is most commonly called the <strong>absorption</strong> method. Strangely named as all methods involve absorption of water. However, in this method, the precise amount of liquid is added to the rice – so no straining or having to add more water as the rice boils dry.
+
+Once rice was full of nasties – stones, dirt, gravel, and chaff. These days it is (mostly) free of these additions. Although the other day I found a stone in some Indian Basmati.
+
+However, it is still a good idea to <strong>wash your rice</strong> before you cook it. Rinsing washes off loose starch, making the rice less sticky. I don’t always do it, but it is a good idea to lose some of that starch and any dust still resident on the grains. Be sure to thoroughly strain rinsed or soaked rice. Excess water can make your rice mushy.
+
+<strong>Whether you soak rice depends on time and tradition. </strong>I don’t. <strong></strong>The reasons for soaking rice are to shorten the cooking time (although the soaking takes longer than the cooking) and to allow for maximum expansion of long-grain rice, particularly Basmati. If you want to soak, then 30 minutes is normal.
+
+[Update: see a subsequent post on <a href="http://vegeyum.wordpress.com/2008/02/27/butterrice/" target="_blank">Steamy, Buttery Rice </a>that does require soaking for 30 minutes.]
+
+You do need a good sized <strong>sturdy pot</strong> with a tight fitting lid for this method. The method traps the steam inside the pot, and this completes the cooking of the rice. The size of the pot allows the steam to accumulate above the rice, so don’t use one that will cramp the rice. Give it plenty of space. If your lid fits loosely, put a clean kitchen cloth between the lid and the pot. (Be sure to fold it over onto the pot so it doesn’t burn.) The cloth also absorbs the water that would normally condense on the inside of the lid and fall back down into the rice – you get a drier, fluffier rice.
+
+Different rices absorb different amounts of water. You will have to experiment a bit to find the right ratio of rice and water for the particular rice that you use. My basmati rice takes 1.5 times the amount of rice in water.
+
+These images show you the difference between short, medium and long grain rice.
+<h3>…..</h3>
+<h3>Cooking Nice Rice</h3>
+<em>Source: A good friend
+</em><em>Prep Time: 3 mins + optional soaking time of 30 mins
+Cook Time: 17 mins
+Serves: 2 people</em>
+
+<em>equipment
+</em>Large, sturdy pan with tight fitting lid
+
+<em>ingredients
+</em>1 cup rice
+1 Tblspn oil or ghee
+1.5 – 2 cups boiling water
+Celtic sea salt
+
+<em>method
+</em>Different rices absorb different amounts of water. Play around with the amount of water until you find the right that you like best for the type of rice that you use.
+
+For every cup of rice, use 1.5 to 2 cups of water (if the rice is washed first use 1 – 1.5 cups). In general, use the larger amount for long-grain rice, the lesser for medium and short. More water will give you softer, stickier rice—great for stir-fries. Less water will keep the grains more separate and result in firmer rice, a good style for rice salads and curries.
+
+Put the water on to boil in your kettle.
+
+Heat the oil or ghee in a saucepan that has a tight fitting lid. Add the rice and stir until it is glazed with the oil or ghee. It makes a nice cracking sound and takes about 1 minute. The oil helps to keep the grains separate.
+
+Add the boiling water, quickly stir and add salt to taste.
+
+Turn the heat to medium, place the lid on the pot and allow to cook for at least 5- 7 minutes. DO NOT LIFT THE LID FROM THE SAUCEPAN.
+
+Turn the heat off but leave the pot on the stove. Let it sit <strong>undisturbed</strong> for at least 12 and up to 20 minutes. It won’t overcook, and sometimes you need the extra time to prepare the remainder of the meal.
+
+&nbsp;
+
+Fluff the rice gently with a fork or chopstick. Handle gently, you don’t want to break the rice grains.
+
+<strong><em>variations
+</em></strong>Add 0.5 tspn turmeric powder to the rice before adding the water, to give a nicely flavoured, yellow rice.
+
+OR after cooking stir through up to half a cup of lemon juice and some black poppy seeds that have been cracked (fried and allowed to pop) in some hot ghee. YUM.
+
+OR add some curry leaves while frying the rice (curry leaves need oil to release their flavour) for an added Indian note to the rice.
+
+OR boil the water for the rice in a saucepan with several strands of saffron.
+
+Play. Enjoy. Yum.
+
+</div>

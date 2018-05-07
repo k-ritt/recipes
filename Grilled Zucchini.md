@@ -1,0 +1,21 @@
+Title: Grilled Zucchini
+Pub date: July 20, 2014
+Category: Recipes, Vegetable, 
+
+6 whole Zucchini (medium Sized)
+1/4 cup Olive Oil
+1 teaspoon Kosher Salt
+1 teaspoon Black Pepper
+3 whole Lemons, Zested
+1 teaspoon Kosher Salt (additional)
+Extra Olive Oil If Needed For Brushing
+<div itemprop="instructions">
+
+Lop off the tops and bottoms of the zucchini and slice them into quarters, lengthwise. Place them all in a very large (or two regular sized) plastic zipper bag. Drizzle in olive oil, 1 teaspoon salt, pepper, 1 tablespoon lemon zest and the juice of two lemons. Seal the bag(s) and smush them around a bit so that the zucchini is coated. Set aside for 15 to 20 minutes to marinate.
+
+Prepare the indoor or outdoor grill to medium to medium-low heat. Grill the zucchini on all three sides until nice and tender, being careful not to burn them. Remove the zucchini to a plate as it gets done.
+
+Pile up the rest of the lemon zest and sprinkle 1 tablespoon kosher salt on top. Use a knife to chop the salt and zest together until it becomes...well, lemon salt! Add more salt if it needs it. Sprinkle the lemon salt over the plate of grilled zucchini and serve.
+
+</div>
+<em>from</em> http://thepioneerwoman.com/cooking/2012/08/grilled-zucchini-with-yummy-lemon-salt/

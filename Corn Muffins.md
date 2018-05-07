@@ -1,0 +1,38 @@
+Title: Corn Muffins
+Pub date: November 15, 2013
+Category: Bread, Recipes, 
+
+<section class="serves">
+<h4 class="section-slug" itemprop="recipeYield"><span style="color: #000000;"> Makes 12 muffins </span></h4>
+<span style="color: #000000;">Whole-grain cornmeal has a fuller flavor than regular cornmeal milled from degerminated corn. To determine what kind of cornmeal a package contains, look closely at the label. </span>
+
+</section><section class="ingredients">
+<h4 class="section-slug"><span style="color: #000000;">Ingredients</span></h4>
+<ul>
+	<li itemprop="ingredients"><span style="color: #000000;"> 2 cups <span style="color: #000000;">unbleached all-purpose flour</span> (10 ounces) </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 1 cup <span style="color: #000000;">fine-ground, whole-grain yellow cornmeal</span> (4 1/2 ounces) </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 1 1/2 teaspoons <span style="color: #000000;">baking powder</span> </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 1 teaspoon baking soda </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 1/2 teaspoon table salt </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 2 large eggs </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 3/4 cup granulated sugar (5 1/4 ounces) </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 8 tablespoons unsalted butter (1 stick), melted </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 3/4 cup sour cream </span></li>
+	<li itemprop="ingredients"><span style="color: #000000;"> 1/2 cup milk</span></li>
+</ul>
+</section><span style="color: #000000;">1. Adjust oven rack to middle position and heat oven to 400 degrees. Spray standard muffin tin with nonstick cooking spray.</span>
+<div>
+
+<span style="color: #000000;">2. Whisk flour, cornmeal, baking powder, baking soda, and salt in medium bowl to combine; set aside. Whisk eggs in second medium bowl until well combined and light-colored, about 20 seconds. Add sugar to eggs; whisk vigorously until thick and homogenous, about 30 seconds; add melted butter in 3 additions, whisking to combine after each addition. Add half the sour cream and half the milk and whisk to combine; whisk in remaining sour cream and milk until combined. Add wet ingredients to dry ingredients; mix gently with rubber spatula until batter is just combined and evenly moistened. Do not over-mix. Using an ice cream scoop or large spoon, divide batter evenly among muffin cups, dropping it to form mound. Do not level or flatten surface of mounds. One level scoop was a good size muffin but it will make more than 12 with this size.
+</span>
+
+</div>
+<div>
+
+<span style="color: #000000;">3. Bake until muffins are light golden brown and skewer inserted into center of muffins comes out clean, about 18 minutes, rotating muffin tin from front to back halfway through baking time. Cool muffins in tin 5 minutes; invert muffins onto wire rack, stand muffins upright, cool 5 minutes longer, and serve warm.</span>
+
+&nbsp;
+
+from Cooks Illustrated
+
+</div>

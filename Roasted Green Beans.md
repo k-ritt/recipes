@@ -1,0 +1,30 @@
+Title: Roasted Green Beans
+Pub date: January 29, 2017
+Category: Recipes, Vegetable, 
+
+Serves 2, generously
+
+1/2 pound fresh green beans, trimmed, washed and dried
+1 tablespoons extra virgin olive oil
+Zest of 1 lemon
+Juice of 1/2 lemon
+2 cloves garlic, peeled and minced
+1 tablespoons capers, optional
+Salt
+freshly ground black pepper
+
+Preheat oven to 425.
+
+Place jelly roll pan in oven to heat up for 10 min.
+
+Meanwhile, toss green beans with rest of the ingredients leaving half of the zest to sprinkle on top after baking.
+
+Remove pan from oven and place green beans in a single layer on hot baking sheet.
+
+Bake for 5 minutes then shake pan to ensure even baking.
+
+Bake for another 5-10 minutes depending on how you like your green beans.  I took mine out at 8 minutes.
+
+Sprinkle with reserved lemon zest and additional salt if needed.
+
+Serve.

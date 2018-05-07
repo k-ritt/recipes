@@ -1,0 +1,18 @@
+Title: Orzo Salad
+Pub date: October 20, 2012
+Category: Pasta, Recipes, Salad, 
+
+Or "Tri-Colore Orzo"
+
+1 lb. orzo pasta
+3 Tbs. extra virgin olive oil, plus 1/4 cup
+2 cup fresh arugula (about 3 oz)
+3/4 cup crumbled ricotta salata cheese (or feta cheese)
+1/2 cup dried cherries
+12 fresh basil leaves, torn
+1/4 cup toasted pine nuts
+3 Tbs. lemon juice
+1 1/2 tsp. salt
+1 tsp. freshly ground black pepper
+
+Bring a large pot of salted water to a boil over high heat. Add the pasta and cook until tender but still firm to the bite, stirring occasionally, about 8 to 10 mins. Drain pasta and put the pasta on a large cookie sheet. Drizzle the pasta with 3 Tbs olive oil, toss, spread out, and set aside to cool. Once the orzo is cool, transfer to a large serving bowl. Add the remaining ingredients and toss gently to combine. Serve.

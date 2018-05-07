@@ -1,0 +1,42 @@
+Title: Chili
+Pub date: November 5, 2013
+Category: Beef, Recipes, Soup, 
+
+in process...
+
+2 pounds ground beef
+1 1/2 cups onion, chopped
+1/2 cup celery, chopped
+1/2 green bell pepper, chopped
+2 jalapenos, chopped
+2 cloves garlic, minced
+1 28-ounce can petite diced tomatoes
+1 33-ounce box tomato sauce
+1 15-ounce can kidney beans
+1 15-ounce can hot chili beans
+1/4 cup chili powder
+2 teaspoons cumin
+1 Tablespoon oregano (used Mexican..try regular)
+1 teaspoon salt
+1 teaspoon black pepper
+1 teaspoon paprika
+1/2 teaspoon cayenne pepper
+1 teaspoon sugar
+1 12 ounce bottle of beer (used Corona)
+1/2 cup masa harina
+
+Sauteed veggies (except garlic) in bacon fat, added garlic for a minute, added spices to enhance flavor, added ground beef and tomatoes and cooked until beef was browned and then added rest of ingredients, saving masa harina until thickness was determined.  Cooked for 1-2 hours.
+
+Next time:
+<div class="directLeft">
+<ol>
+	<li><span class="plaincharacterwrap break">Heat a large stock pot over medium-high heat. Crumble the ground beef into the hot pan, and cook until evenly browned. Drain off excess grease.</span></li>
+	<li><span class="plaincharacterwrap break">Pour in the chili beans, spicy chili beans, diced tomatoes and tomato paste. Add the onion, celery, green bell peppers, chile peppers, and beer. Season with chili powder, garlic, oregano, cumin, salt, pepper, cayenne, paprika, and sugar. Stir to blend, then cover and simmer over low heat for 1- 2 hours, stirring occasionally.</span></li>
+	<li><span class="plaincharacterwrap break">Adjust salt, pepper, and chili powder if necessary.  Remove from heat and serve, or refrigerate, and serve the next day.</span></li>
+</ol>
+</div>
+And also....
+Add 1 Tbls Worcestershire sauce and maybe sub some beef broth for tomato sauce as it was a little too tomatoey.
+Add sausage or sub some for some of the beef
+
+-combo of Boilermaker Tailgate Chili and Flatlander Chili, both from allrecipes

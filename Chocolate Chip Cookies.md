@@ -1,0 +1,29 @@
+Title: Chocolate Chip Cookies
+Pub date: May 27, 2014
+Category: Dessert, Recipes, 
+
+2 cups all-purpose flour
+1 teaspoon salt
+1 teaspoon baking soda
+1 cup (2 sticks) unsalted butter, softened
+1 cup firmly packed dark brown sugar
+1/2 cups granulated sugar
+2 large eggs
+2 teaspoons pure vanilla extract
+2 2/3 cup (16 ounces) semisweet chocolate chips
+
+In a medium bowl, whisk the flour, salt and baking soda together and set aside.
+
+In the bowl of an electric mixer fitted with the paddle attachment, beat the butter and sugars together until smooth and creamy.  Scrape down the bowl and add the eggs, one at a time, beating until each is incorporated.  The mixture will look light and fluffy.  Add the vanilla and beat for 5 seconds.
+
+Add half of the flour mixture and mix for 15 seconds.  Add the remaining flour mixture and beat until just incorporated.
+
+Using a spatula or wooden spoon, fold in the chocolate chips.
+
+Cover the bowl tightly and put in the refrigerator for 6 hours.
+
+Preheat oven to 375 degrees. Line two baking sheets with parchment.
+
+Scoop dough in 2 Tablespoon-size balls.  Use your hands to shape the dough into perfect balls and place them on the prepared baking sheets about 1 inch apart.  Bake for 11-13 minutes, rotating the pans once during cooking time, until the edges of the cookies are golden brown and the tops just start to darken.
+
+Remove pan from oven and cool on a wire rack for 5 minutes.  Use a  spatula to transfer the individual cookies to the rack to cool completely.

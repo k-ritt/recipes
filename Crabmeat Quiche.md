@@ -1,0 +1,24 @@
+Title: Crabmeat Quiche
+Pub date: August 25, 2017
+Category: Recipes, Seafood, 
+
+<b>½</b> C. Mayo
+2 Tbsp. Flour
+3 eggs, beaten
+1 C. milk
+8 oz. fresh crabmeat
+8 oz. grated Swiss, <b>mozzarella</b>, or cheddar cheese
+1/3 c. chopped green onion
+1 pie shell pre-baked 5-10 min
+
+Mix eggs and flour, add milk then rest of ingredients, stir to mix.
+
+Pour into pie shell.
+
+Bake 425 for 15 minutes then 350 for 30 to 45 min.
+
+Rest 15 minutes before cutting to serve
+
+Notes:
+08/24/17
+Used Pillsbury pie crust and pre-baked at 450 for 6 minutes.  Added quiche mixture and baked according to directions.  It was done on the 30 minutes end.  Crust was uneventful taste wise but texture was fine (not soggy, etc).

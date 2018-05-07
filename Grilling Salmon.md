@@ -1,0 +1,9 @@
+Title: Grilling Salmon
+Pub date: August 25, 2017
+Category: Recipes, Seafood, Uncategorized, 
+
+<ol>
+ 	<li>Build a medium-high fire on a clean gas or charcoal grill. (If the grill isn't clean, the salmon will stick to the grate.)</li>
+ 	<li>Season the salmon with salt and pepper, lightly oil the grate of the grill, then place the fillets skin-side up over the fire and cook for about 2 to 3 minutes, until lightly browned.</li>
+ 	<li>Gently flip the salmon over and cook 3 to 4 minutes more for medium rare. You can cook a little longer if you'd like, but take care not to overcook.</li>
+</ol>

@@ -1,0 +1,60 @@
+Title: Chicken Tikka Masala
+Pub date: October 24, 2011
+Category: Chicken, Recipes, 
+
+<strong>Chicken Kebab Marinade</strong>
+Skinless boneless chicken breast: 2 Pounds
+Whole-milk Yogurt: 1 Cup
+Cumin powder: 1 1/2 teaspoon
+Ground Cinnamon: 1 teaspoon
+Cayenne powder: <span style="color: #ff0000;">1 teaspoon <span style="color: #000000;">(1 1/2 teaspoon)</span></span>
+Ground Black Pepper: <span style="color: #ff0000;">1 teaspoon <span style="color: #000000;">(1 1/2 teaspoon)</span></span>
+Salt: 1 Tablespoon
+Degi Mirch or Paprika: <span style="color: #ff0000;">1 teaspoon</span> (1 1/2 teaspoon)
+Turmeric Powder: ½ teaspoon
+Lime Juice: 1 Tablespoon
+Fresh Ginger finely chopped: 1 Inch
+Bamboo Skewers: 4 Large
+
+<strong>Tikka Masala </strong>
+Ghee (Clarified Butter): 4 Tablespoon
+Onions finely chopped (almost pureed): 1½ Cup
+Garlic minced: 12 Cloves
+Ginger finely chopped (almost pureed): 3 Inch
+Cumin Powder: 1½ Table spoon
+Cinnamon powder: 3/4 teaspoon
+Cayenne Pepper: 1 teaspoon
+Salt: 1 Tablespoon
+Turmeric powder: 3/4 teaspoon
+Tomato puree: 3 Cup
+Degi Mirch: 2 teaspoons
+Chili powder:  2 teaspoons
+Heavy whipping cream: 1 1/2 cup
+Cashews finely chopped: 1/2 cup
+
+<strong>Chicken Kebab: </strong>
+1.  Mix all ingredients except chicken.
+2.  Add chicken and put it in a refrigerator for at least 12 hours.
+3.  Remove chicken from marinade.  Leave whole (or cut into 1" cubes and thread onto skewers).
+4.  Preheat oven to broil.  Line a baking pan with aluminum foil shiny side up. Put skewers in the pan (or on a roasting rack if left whole).
+5.  Baste the chicken generously with the marinade.
+6.  Bake chicken for about 10 minutes. Turn over the chicken. Baste Chicken again with the marinade. Bake another 8-10 minutes or till done..
+
+<strong>Tikka Masala </strong>.
+1.  Heat Ghee in a heavy bottom pan.
+2.  Sautee onions over medium heat until clear, about 10 minutes.
+3.  Add Garlic and ginger. Continue sautéing until the raw scent leaves (1-3 minutes).
+4.  Add cumin, cinnamon, cayenne, salt and turmeric powder. Sautee another two minutes stirring constantly.
+5.  Add tomato puree. Bring to a boil. Simmer about 10 minutes.
+6.  Stir in paprika, chili powder.
+
+Puree and return to pan.
+
+Add cream.  Simmer on medium heat till you have a nice consistency of a thick gravy.
+
+7.  Taste and add more cayenne to adjust spiciness.
+
+adapted from http://www.indiacurry.com/chicken/cx007chixtikkamasala.htm
+
+---
+compare with http://userealbutter.com/2011/09/11/chicken-tikka-masala-recipe/ )made but used as a base for saag..it was too spicy...again, start with smaller amt of cayenne then add more
