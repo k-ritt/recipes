@@ -1,25 +1,28 @@
-Title: Buttermilk Pancakes
-Pub date: February 14, 2014
-Category: Bread, Breakfast, Recipes, 
+# Buttermilk Pancakes
+###### Pub date: February 14, 2014
+###### Category: Bread, Breakfast, Recipes
 
-3 Tbs. unsalted butter; more for serving
-2 cups (9 oz) unbleached all-purpose flour
-1/4 cup (1.75 oz)  granulated sugar
-2-1/2 tsp. baking powder
-1/2 tsp. baking soda
-1/2 tsp. kosher salt
-2 cups buttermilk
-2 large eggs
+## Whole Recipe
+#### Ingredients:
+* 3 Tbs. unsalted butter; more for serving
+* 2 cups (9 oz) unbleached all-purpose flour
+* 1/4 cup (1.75 oz)  granulated sugar
+* 2-1/2 tsp. baking powder
+* 1/2 tsp. baking soda
+* 1/2 tsp. kosher salt
+* 2 cups buttermilk
+* 2 large eggs
 
-Half Recipe (serves 2, with 1 or 2 cakes leftover)
-1 1/2 Tbs. unsalted butter; more for serving
-1 cup (4.5 oz) unbleached all-purpose flour
-2 Tbs  granulated sugar
-1-1/4 tsp. baking powder
-1/4 tsp. baking soda
-1/4 tsp. kosher salt
-1 cup buttermilk
-1 large eggs
+## Half Recipe (serves 2, with 1 or 2 cakes leftover)
+#### Ingredients
+* 1 1/2 Tbs. unsalted butter; more for serving
+* 1 cup (4.5 oz) unbleached all-purpose flour
+* 2 Tbs  granulated sugar
+* 1-1/4 tsp. baking powder
+* 1/4 tsp. baking soda
+* 1/4 tsp. kosher salt
+* 1 cup buttermilk
+* 1 large eggs
 
 Melt the butter in a small bowl in the microwave or in a small saucepan on the stove and set aside to cool briefly.
 
@@ -29,4 +32,4 @@ Heat a griddle or a large skillet over medium heat (or set an electric griddle t
 
 Serve hot with butter and maple syrup.
 
-<em>from</em> Fine Cooking
+*fromFine Cooking*
