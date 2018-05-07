@@ -32,4 +32,4 @@ Heat a griddle or a large skillet over medium heat (or set an electric griddle t
 
 Serve hot with butter and maple syrup.
 
-*fromFine Cooking*
+*from Fine Cooking*
