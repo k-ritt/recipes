@@ -1,6 +1,6 @@
 # Yeasted Naan
-Pub date: January 10, 2013
-Category: Bread, Recipes, 
+###### January 10, 2013
+###### Bread, Recipes, 
 
 2 cups bread flour or strong white flour or all purpose flour i*(240 grams)*
 1 tsp sugar

@@ -1,6 +1,6 @@
-Title: Pancakes
-Pub date: February 7, 2012
-Category: Bread, Recipes, 
+# Pancakes
+###### February 7, 2012
+###### Bread, Recipes, 
 
 1 1/2 cups all-purpose flour
 3 1/2 teaspoons baking powder

@@ -1,6 +1,6 @@
-Title: Rice Crispy Treats
-Pub date: November 3, 2012
-Category: Dessert, Recipes, 
+# Rice Crispy Treats
+###### November 3, 2012
+###### Dessert, Recipes, 
 
 <span style="font-family: 'Helvetica Neue', Helvetica, Arial, 'Nimbus Sans L', sans-serif;">11.5 cups Rice Krispies
 1 stick butter

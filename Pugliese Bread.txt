@@ -1,6 +1,6 @@
-Title: Pugliese Bread
-Pub date: December 11, 2011
-Category: Recipes, 
+# Pugliese Bread
+###### December 11, 2011
+###### Recipes, 
 
 taken and adapted from http://artisanbreadbaking.com/bread/pugliese/
 
@@ -9,7 +9,7 @@ taken and adapted from http://artisanbreadbaking.com/bread/pugliese/
 The bread is traditionally a large wheel or round, but I make three smaller rounds.
 
 As noted below, if you want larger holes in the finished bread, be very gentle with the folds.
-<h3>Biga</h3>
+#### Biga
 <table>
 <tbody>
 <tr>
@@ -39,7 +39,7 @@ As noted below, if you want larger holes in the finished bread, be very gentle w
 </tr>
 </tbody>
 </table>
-<h3>Dough</h3>
+#### Dough
 <table>
 <tbody>
 <tr>
@@ -84,7 +84,7 @@ As noted below, if you want larger holes in the finished bread, be very gentle w
 </tr>
 </tbody>
 </table>
-<h3>Method</h3>
+#### Method
 1. Make biga at 60% by dissolving yeast in warm water and mixing in with flour. Let stand overnight on the counter.
 
 2. Dissolve yeast in the 75 grams of water in a large mixer bowl and cut up the biga and add it to the bowl. (I add all the biga even if over 400 grams. if over then will need less water)

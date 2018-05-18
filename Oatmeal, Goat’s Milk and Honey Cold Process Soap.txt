@@ -1,6 +1,6 @@
-Title: Oatmeal, Goat’s Milk and Honey Cold Process Soap
-Pub date: October 18, 2014
-Category: Soap, 
+# Oatmeal, Goat’s Milk and Honey Cold Process Soap
+###### October 18, 2014
+###### Soap, 
 
 Used reciped and (milk in oil) method from here:
 http://www.lovinsoap.com/2013/02/the-classic-oatmeal-goats-milk-and-honey-cold-process-soap-milk-in-oil-method/
@@ -287,7 +287,7 @@ http://www.lovinsoap.com/2013/02/the-classic-oatmeal-goats-milk-and-honey-cold-p
 </tr>
 </tbody>
 </table>
-</div>
+
 Notes:
 Used Ultra-pasteurized goats milk.
 Let lye solution and oils reach around 90 degrees.

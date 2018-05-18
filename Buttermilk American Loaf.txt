@@ -1,45 +1,45 @@
-Title: Buttermilk American Loaf
-Pub date: July 20, 2014
-Category: Bread, Recipes, 
+# Buttermilk American Loaf
+###### July 20, 2014
+###### Bread, Recipes, 
 
 <section>
-<ul>
-	<li itemprop="ingredients">3 1/2 cups bread flour, plus extra for work surface</li>
-	<li itemprop="ingredients">2 teaspoons table salt</li>
-	<li itemprop="ingredients">1 cup buttermilk, cold</li>
-	<li itemprop="ingredients">1/3 cup boiling water</li>
-	<li itemprop="ingredients">2 tablespoons unsalted butter, melted</li>
-	<li itemprop="ingredients">3 tablespoons honey</li>
-	<li itemprop="ingredients">1 package rapid-rise yeast (also called instant yeast)</li>
-</ul>
+
+	<li itemprop="ingredients">3 1/2 cups bread flour, plus extra for work surface
+	<li itemprop="ingredients">2 teaspoons table salt
+	<li itemprop="ingredients">1 cup buttermilk, cold
+	<li itemprop="ingredients">1/3 cup boiling water
+	<li itemprop="ingredients">2 tablespoons unsalted butter, melted
+	<li itemprop="ingredients">3 tablespoons honey
+	<li itemprop="ingredients">1 package rapid-rise yeast (also called instant yeast)
+
 </section>
-<div>
+
 
 1. Adjust oven rack to low position and heat oven to 200 degrees. Once oven temperature reaches 200 degrees, maintain heat 10 minutes, then turn off oven heat.
 
-</div>
-<div>
+
+
 
 2. Mix flour, yeast and salt in bowl of standing mixer fitted with dough hook. in 1-quart Pyrex liquid measuring cup, Mix cold buttermilk and water together  and heat until temperature reaches about 110-degrees.  Add butter and honey. Turn machine to low and slowly add liquid. When dough comes together, increase speed to medium (setting number 4 on a KitchenAid mixer) and mix until dough is smooth and satiny, stopping machine two or three times to scrape dough from hook if necessary, about 10 minutes. Turn dough onto lightly floured work surface; knead to form smooth, round ball, about 15 seconds.
 
-</div>
-<div>
+
+
 
 3. Place dough in very lightly oiled bowl, rubbing dough around bowl to lightly coat. Cover bowl with plastic wrap; place in warm oven until dough doubles in size, 50 to 60 minutes.
 
-</div>
-<div>
+
+
 
 4. Form dough into loaf by gently pressing the dough into a rectangle, one inch thick and no wider than the length of the loaf pan. Next, roll the dough firmly into a cylinder, pressing with your fingers to make sure the dough sticks to itself. Turn dough seam side up and pinch it closed. Place dough in greased 9-by-5-by-3-inch loaf pan and press gently so dough touches all four sides of pan.
 
-</div>
-<div>
+
+
 
 5. Cover with plastic wrap; set aside in warm spot until dough almost doubles in size, 20 to 30 minutes. Heat oven to 350 degrees, placing empty loaf pan on bottom rack. Bring 2 cups water to boil.
 
-</div>
-<div>
+
+
 
 6. Remove plastic wrap from loaf pan. Place pan in oven, immediately pouring heated water into empty loaf pan; close oven door. Bake until instant-read thermometer inserted at angle from short end just above pan rim into center of loaf reads 195 degrees, about 40 to 50 minutes. Remove bread from pan, transfer to a wire rack, and cool to room temperature. Slice and serve.
 
-</div>
+

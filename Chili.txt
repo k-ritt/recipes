@@ -1,6 +1,6 @@
-Title: Chili
-Pub date: November 5, 2013
-Category: Beef, Recipes, Soup, 
+# Chili
+###### November 5, 2013
+###### Beef, Recipes, Soup, 
 
 in process...
 
@@ -30,11 +30,11 @@ Sauteed veggies (except garlic) in bacon fat, added garlic for a minute, added s
 Next time:
 <div class="directLeft">
 <ol>
-	<li><span class="plaincharacterwrap break">Heat a large stock pot over medium-high heat. Crumble the ground beef into the hot pan, and cook until evenly browned. Drain off excess grease.</span></li>
-	<li><span class="plaincharacterwrap break">Pour in the chili beans, spicy chili beans, diced tomatoes and tomato paste. Add the onion, celery, green bell peppers, chile peppers, and beer. Season with chili powder, garlic, oregano, cumin, salt, pepper, cayenne, paprika, and sugar. Stir to blend, then cover and simmer over low heat for 1- 2 hours, stirring occasionally.</span></li>
-	<li><span class="plaincharacterwrap break">Adjust salt, pepper, and chili powder if necessary.  Remove from heat and serve, or refrigerate, and serve the next day.</span></li>
+	* <span class="plaincharacterwrap break">Heat a large stock pot over medium-high heat. Crumble the ground beef into the hot pan, and cook until evenly browned. Drain off excess grease.</span>
+	* <span class="plaincharacterwrap break">Pour in the chili beans, spicy chili beans, diced tomatoes and tomato paste. Add the onion, celery, green bell peppers, chile peppers, and beer. Season with chili powder, garlic, oregano, cumin, salt, pepper, cayenne, paprika, and sugar. Stir to blend, then cover and simmer over low heat for 1- 2 hours, stirring occasionally.</span>
+	* <span class="plaincharacterwrap break">Adjust salt, pepper, and chili powder if necessary.  Remove from heat and serve, or refrigerate, and serve the next day.</span>
 </ol>
-</div>
+
 And also....
 Add 1 Tbls Worcestershire sauce and maybe sub some beef broth for tomato sauce as it was a little too tomatoey.
 Add sausage or sub some for some of the beef

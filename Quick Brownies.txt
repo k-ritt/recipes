@@ -1,6 +1,6 @@
-Title: Quick Brownies
-Pub date: February 21, 2014
-Category: Dessert, Recipes, 
+# Quick Brownies
+###### February 21, 2014
+###### Dessert, Recipes, 
 
 <span itemprop="ingredient" itemscope="" itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 cup</span> <span itemprop="name">Butter</span></span>
 <span itemprop="ingredient" itemscope="" itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 cups</span> <span itemprop="name">White Sugar</span></span>

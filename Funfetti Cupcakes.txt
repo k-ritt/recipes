@@ -1,11 +1,11 @@
-Title: Funfetti Cupcakes
-Pub date: October 24, 2011
-Category: Dessert, Recipes, 
+# Funfetti Cupcakes
+###### October 24, 2011
+###### Dessert, Recipes, 
 
-<div>
+
 <h1><span class="Apple-style-span" style="font-size: 13px; font-weight: normal;">http://www.thecurvycarrot.com/2011/08/22/funfetti-cupcakes/</span></h1>
-</div>
-<div>
+
+
 
 I have seen homemade funfetti cupcakes floating around on lots of food blogs recently, and I was dying to try them for myself.  Recently, for a coworker’s birthday celebration at work, he gave me free reign with the flavor of his birthday cupcake, only requesting for the final design to have lots of color in it.  Obviously,  my opportunity for trying my own homemade funfetti cupcakes had arrived.
 
@@ -83,4 +83,4 @@ Sprinkles, for garnish
 
 Source:  Adapted from Baking Illustrated.
 
-</div>
+

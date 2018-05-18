@@ -1,8 +1,8 @@
-Title: Roasted Broccoli
-Pub date: November 8, 2016
-Category: Recipes, Vegetable, 
+# Roasted Broccoli
+###### November 8, 2016
+###### Recipes, Vegetable, 
 
-<div>1 pound broccoli, rinsed and trimmed
+1 pound broccoli, rinsed and trimmed
 2 tablespoons olive oil
 2 cloves garlic, minced
 1/2 teaspoon kosher salt
@@ -10,9 +10,9 @@ Category: Recipes, Vegetable,
 1/3 cup panko bread crumbs
 1/4 cup finely grated Parmesan or sharp Cheddar
 
-</div>
-<div>
-<div>Preheat oven to 425 degrees F.
+
+
+Preheat oven to 425 degrees F.
 
 Cut the broccoli florets into bite size pieces. Cut the stalk into 1/8-inch thick, round slices. Place the broccoli into a mixing bowl and toss with the olive oil, garlic, kosher salt and pepper and set aside.
 
@@ -21,5 +21,5 @@ Spread the panko into a 13 by 9-inch metal cake pan and place into the oven for 
 Recipe courtesy of Alton Brown, 2007
 
 
-</div>
-</div>
+
+

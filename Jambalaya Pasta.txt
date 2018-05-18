@@ -1,6 +1,6 @@
-Title: Jambalaya Pasta
-Pub date: January 6, 2012
-Category: Pasta, Recipes, 
+# Jambalaya Pasta
+###### January 6, 2012
+###### Pasta, Recipes, 
 
 If not using shrimp divide the 1 lb that is called for between the chicken and andouille
 

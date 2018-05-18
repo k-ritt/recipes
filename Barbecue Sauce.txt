@@ -1,6 +1,6 @@
-Title: Barbecue Sauce
-Pub date: May 21, 2012
-Category: Condiments, Recipes, 
+# Barbecue Sauce
+###### May 21, 2012
+###### Condiments, Recipes, 
 
 2 cups ketchup
 2 cups tomato sauce
@@ -19,8 +19,8 @@ Category: Condiments, Recipes,
 1 teaspoon salt
 1 teaspoon coarsely ground black pepper
 <ol>
-	<li>In a large saucepan over medium heat, mix together the ketchup, tomato sauce, brown sugar, wine vinegar, molasses, liquid smoke and butter. Season with garlic powder, onion powder, chili powder, paprika, celery seed, cinnamon, cayenne, salt and pepper.</li>
-	<li>Reduce heat to low, and simmer for up to 20 minutes. For thicker sauce, simmer longer, and for thinner, less time is needed. Sauce can also be thinned using a bit of water if necessary. Brush sauce onto any kind of meat during the last 10 minutes of cooking.</li>
+	* In a large saucepan over medium heat, mix together the ketchup, tomato sauce, brown sugar, wine vinegar, molasses, liquid smoke and butter. Season with garlic powder, onion powder, chili powder, paprika, celery seed, cinnamon, cayenne, salt and pepper.
+	* Reduce heat to low, and simmer for up to 20 minutes. For thicker sauce, simmer longer, and for thinner, less time is needed. Sauce can also be thinned using a bit of water if necessary. Brush sauce onto any kind of meat during the last 10 minutes of cooking.
 </ol>
 Comments to try:
 Sub honey for molasses

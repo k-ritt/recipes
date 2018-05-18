@@ -1,6 +1,6 @@
-Title: Winter Vegetable Soup
-Pub date: October 31, 2014
-Category: Recipes, Soup, Vegetable, Vegetarian, 
+# Winter Vegetable Soup
+###### October 31, 2014
+###### Recipes, Soup, Vegetable, Vegetarian, 
 
 3 tbsp olive oil
 1 cup coarsely chopped onion

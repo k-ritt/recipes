@@ -1,6 +1,6 @@
-Title: Salad Nicoise
-Pub date: May 13, 2014
-Category: Recipes, Salad, 
+# Salad Nicoise
+###### May 13, 2014
+###### Recipes, Salad, 
 
 4 large eggs
 1 # small green beans, preferably haricots verts

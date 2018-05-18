@@ -1,6 +1,6 @@
-Title: Quinoa and Black Bean Chili
-Pub date: December 18, 2016
-Category: Recipes, Vegetarian, 
+# Quinoa and Black Bean Chili
+###### December 18, 2016
+###### Recipes, Vegetarian, 
 
 1 cup Quinoa
 

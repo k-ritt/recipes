@@ -1,6 +1,6 @@
-Title: Recipes to try
-Pub date: February 12, 2012
-Category: Recipes, 
+# Recipes to try
+###### February 12, 2012
+###### Recipes, 
 
 Key Lime Pie
 http://ansonmills.com/recipes/541

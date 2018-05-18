@@ -1,8 +1,8 @@
-Title: Baked Eggs in Roasted Tomatoes
-Pub date: December 6, 2012
-Category: Breakfast, Recipes, 
+# Baked Eggs in Roasted Tomatoes
+###### December 6, 2012
+###### Breakfast, Recipes, 
 
-<div>
+
 
 1 tsp olive oil
 Two handfuls of grape tomatoes halved or quartered
@@ -13,8 +13,8 @@ Two handfuls of grape tomatoes halved or quartered
 Cheese of your choice (cheddar, feta, cotija, parmesan)
 Sea salt(or Kosher) and freshly cracked pepper, to taste
 
-</div>
-<div>
+
+
 
 Preheat the oven to 350 degrees.
 
@@ -29,4 +29,4 @@ Place onto a baking tray and cook for 13-15 minutes or until the whites set but 
 Adapted from:
 http://www.fortheloveofcooking.net/2012/05/baked-eggs-in-roasted-tomatoes.html
 
-</div>
+

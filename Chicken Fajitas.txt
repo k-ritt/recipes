@@ -1,6 +1,6 @@
-Title: Chicken Fajitas
-Pub date: October 27, 2011
-Category: Recipes, 
+# Chicken Fajitas
+###### October 27, 2011
+###### Recipes, 
 
 http://www.cooksillustrated.com/recipes/detail.asp?docid=6668
 <h4></h4>

@@ -1,11 +1,11 @@
-Title: Basmati Rice
-Pub date: October 24, 2011
-Category: Recipes, 
+# Basmati Rice
+###### October 24, 2011
+###### Recipes, 
 
 http://vegeyum.wordpress.com/2007/10/05/play-nice-with-rice/
 <h1>Play nice with Rice: How To cook rice</h1>
-<div>Posted on October 5, 2007 by Ganga108</div>
-<div>
+Posted on October 5, 2007 by Ganga108
+
 
 <em>Remember really gluggy rice? Yes, those were the days. Good rice does not exactly make a meal, but poorly cooked rice sure does spoil it. I took me a long time to be able to cook rice consistently well. I used to put it into buckets of boiling water, cook it rapidly, strain it when done and then hope for the best. Sound familiar?</em>
 
@@ -27,8 +27,8 @@ You do need a good sized <strong>sturdy pot</strong> with a tight fitting lid 
 Different rices absorb different amounts of water. You will have to experiment a bit to find the right ratio of rice and water for the particular rice that you use. My basmati rice takes 1.5 times the amount of rice in water.
 
 These images show you the difference between short, medium and long grain rice.
-<h3>…..</h3>
-<h3>Cooking Nice Rice</h3>
+#### …..
+#### Cooking Nice Rice
 <em>Source: A good friend
 </em><em>Prep Time: 3 mins + optional soaking time of 30 mins
 Cook Time: 17 mins
@@ -73,4 +73,4 @@ OR boil the water for the rice in a saucepan with several strands of saffron.
 
 Play. Enjoy. Yum.
 
-</div>
+

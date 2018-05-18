@@ -1,6 +1,6 @@
-Title: Butternut Squash, Sausage and Wild Rice Soup
-Pub date: December 11, 2011
-Category: Recipes, Soup, 
+# Butternut Squash, Sausage and Wild Rice Soup
+###### December 11, 2011
+###### Recipes, Soup, 
 
 Makes 8 to 12 servings.
 

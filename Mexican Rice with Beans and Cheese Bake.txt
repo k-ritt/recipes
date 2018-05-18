@@ -1,6 +1,6 @@
-Title: Mexican Rice with Beans and Cheese Bake
-Pub date: April 19, 2013
-Category: Recipes, Rice, Vegetarian, 
+# Mexican Rice with Beans and Cheese Bake
+###### April 19, 2013
+###### Recipes, Rice, Vegetarian, 
 
 1 Tbs. olive oil
 1 onion, finely chopped

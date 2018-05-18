@@ -1,6 +1,6 @@
-Title: Pizza Dough
-Pub date: February 7, 2012
-Category: Bread, Recipes, 
+# Pizza Dough
+###### February 7, 2012
+###### Bread, Recipes, 
 
 Makes 2 12” Pizzas
 

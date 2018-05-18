@@ -1,6 +1,6 @@
-Title: Chicken Tikka Masala
-Pub date: October 24, 2011
-Category: Chicken, Recipes, 
+# Chicken Tikka Masala
+###### October 24, 2011
+###### Chicken, Recipes, 
 
 <strong>Chicken Kebab Marinade</strong>
 Skinless boneless chicken breast: 2 Pounds

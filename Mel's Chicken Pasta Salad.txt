@@ -1,6 +1,6 @@
-Title: Mel&#8217;s Chicken Pasta Salad
-Pub date: July 20, 2014
-Category: Chicken, Pasta, Recipes, Salad, 
+# Mel&#8217;s Chicken Pasta Salad
+###### July 20, 2014
+###### Chicken, Pasta, Recipes, Salad, 
 
 Updated recipe 08/14
 

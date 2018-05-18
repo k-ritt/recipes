@@ -1,6 +1,6 @@
-Title: Basic CP Soap Recipe
-Pub date: November 25, 2012
-Category: Soap, 
+# Basic CP Soap Recipe
+###### November 25, 2012
+###### Soap, 
 
 20 oz Olive Oil
 6 oz Coconut Oil

@@ -1,6 +1,6 @@
-Title: Chicken Tortilla Soup
-Pub date: December 11, 2011
-Category: Recipes, 
+# Chicken Tortilla Soup
+###### December 11, 2011
+###### Recipes, 
 
 (*) quantity doubled
 
@@ -32,7 +32,7 @@ Grated Monterey Jack Cheese
 Cilantro
 Lime
 <h4>Preparation Instructions</h4>
-<div>
+
 
 Preheat oven to 375 degrees. Mix cumin, chili pepper, garlic powder, and salt. Drizzle 1 tablespoon olive oil on chicken breasts, then sprinkle a small amount of spice mix on both sides. Set aside the rest of the spice mix.
 
@@ -46,4 +46,4 @@ Mix cornmeal with a small amount of water. Pour into the soup, then simmer for a
 
 Ladle into bowls, then top with sour cream, diced red onion, diced avocado, pico de gallo, and grated cheese, if you have it! (The garnishes really make the soup delicious.)
 <h4>http://thepioneerwoman.com/cooking/2011/01/chicken-tortilla-soup/</h4>
-</div>
+

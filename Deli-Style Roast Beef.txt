@@ -1,6 +1,6 @@
-Title: Deli-Style Roast Beef
-Pub date: June 21, 2012
-Category: Beef, Recipes, 
+# Deli-Style Roast Beef
+###### June 21, 2012
+###### Beef, Recipes, 
 
 1 beef eye round roast
 olive oil

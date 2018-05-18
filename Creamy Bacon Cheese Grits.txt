@@ -1,20 +1,20 @@
-Title: Creamy Bacon Cheese Grits
-Pub date: November 3, 2012
-Category: Recipes, 
+# Creamy Bacon Cheese Grits
+###### November 3, 2012
+###### Recipes, 
 
-<ul>
-	<li>8 slices Regular Bacon, Cut Into 1/2-inch Pieces</li>
-	<li>1 whole Yellow Onion, Chopped</li>
-	<li>2 cups Stone Ground Grits; The More Coarse, The Better!</li>
-	<li>4 cups Low Sodium Chicken Broth</li>
-	<li>2 cups Water</li>
-	<li>2 cups Heavy Cream (sorry)</li>
-	<li>1-1/2 cup Grated Cheese (Monterey Jack, Etc.)</li>
-	<li>1 dash Cayenne, For Heat</li>
-	<li>Salt As Needed</li>
-	<li>Black Pepper To Taste</li>
-</ul>
-<div>
+
+	* 8 slices Regular Bacon, Cut Into 1/2-inch Pieces
+	* 1 whole Yellow Onion, Chopped
+	* 2 cups Stone Ground Grits; The More Coarse, The Better!
+	* 4 cups Low Sodium Chicken Broth
+	* 2 cups Water
+	* 2 cups Heavy Cream (sorry)
+	* 1-1/2 cup Grated Cheese (Monterey Jack, Etc.)
+	* 1 dash Cayenne, For Heat
+	* Salt As Needed
+	* Black Pepper To Taste
+
+
 
 In a heavy pot, cook bacon over medium heat for a couple of minutes to render fat. Add onions and cook with bacon for a few minutes, or until bacon is chewy and onions are golden brown.
 
@@ -24,4 +24,4 @@ After 30-40 minutes of cooking time, pour in cream. Cover pot and continue to si
 
 From pioneerwoman.com
 
-</div>
+

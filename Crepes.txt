@@ -1,6 +1,6 @@
-Title: Crepes
-Pub date: December 14, 2014
-Category: Chicken, Recipes, 
+# Crepes
+###### December 14, 2014
+###### Chicken, Recipes, 
 
 <div class="ingredients">
 
@@ -49,5 +49,5 @@ To freeze crêpes for up to 3 months, lay pieces of waxed paper or parchment bet
 
 <em>from http://www.finecooking.com/recipes/brown-butter-crepes.aspx</em>
 
-</div>
-<div id="ym_813551370984169144" class="ym"></div>
+
+<div id="ym_813551370984169144" class="ym">

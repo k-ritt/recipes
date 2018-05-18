@@ -1,6 +1,6 @@
-Title: Mattar Paneer
-Pub date: January 6, 2013
-Category: Recipes, Vegetarian, 
+# Mattar Paneer
+###### January 6, 2013
+###### Recipes, Vegetarian, 
 
 Or Gajar Matar
 

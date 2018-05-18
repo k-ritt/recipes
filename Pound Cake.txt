@@ -1,6 +1,6 @@
-Title: Pound Cake
-Pub date: February 9, 2013
-Category: Dessert, Recipes, 
+# Pound Cake
+###### February 9, 2013
+###### Dessert, Recipes, 
 
 Used this recipe:
 http://www.ezrapoundcake.com/archives/633

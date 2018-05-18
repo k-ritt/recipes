@@ -1,6 +1,6 @@
-Title: Pizza Sauce
-Pub date: February 2, 2012
-Category: Recipes, 
+# Pizza Sauce
+###### February 2, 2012
+###### Recipes, 
 
 This is a sweet pizza sauce.
 

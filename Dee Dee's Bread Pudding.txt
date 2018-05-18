@@ -1,6 +1,6 @@
-Title: Dee Dee&#8217;s Bread Pudding
-Pub date: February 14, 2012
-Category: Dessert, Recipes, 
+# Dee Dee&#8217;s Bread Pudding
+###### February 14, 2012
+###### Dessert, Recipes, 
 
 2 cups milk
 2 eggs

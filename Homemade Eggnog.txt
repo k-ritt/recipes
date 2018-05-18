@@ -1,6 +1,6 @@
-Title: Homemade Eggnog
-Pub date: January 5, 2016
-Category: Beverages, Dessert, Recipes, 
+# Homemade Eggnog
+###### January 5, 2016
+###### Beverages, Dessert, Recipes, 
 
 <span class="amount">Serves 20
 12</span> <span class="name">eggs, separated
@@ -21,11 +21,11 @@ Serves 5
 ground nutmeg or cinnamon <span class="amount">to taste</span>
 </span>
 <ol>
-	<li>Place egg yolks in large bowl. Beat with electric mixer until combined.</li>
-	<li>Gradually add sugar, beating until mixture is thick and pale yellow.</li>
-	<li>Stir in cream and milk, then rum and vanilla, if desired.</li>
-	<li>Cover and refrigerate until chilled or as long as overnight. Just before serving, beat room temperature egg whites with electric mixer until soft peaks form.</li>
-	<li>Stir egg yolk mixture. Then gently fold in beaten egg whites. Pour eggnog into punch bowl. Sprinkle with nutmeg.</li>
+	* Place egg yolks in large bowl. Beat with electric mixer until combined.
+	* Gradually add sugar, beating until mixture is thick and pale yellow.
+	* Stir in cream and milk, then rum and vanilla, if desired.
+	* Cover and refrigerate until chilled or as long as overnight. Just before serving, beat room temperature egg whites with electric mixer until soft peaks form.
+	* Stir egg yolk mixture. Then gently fold in beaten egg whites. Pour eggnog into punch bowl. Sprinkle with nutmeg.
 </ol>
 12/2015 - leftovers seem to keep fine in refrigerator
 

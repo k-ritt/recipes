@@ -1,6 +1,6 @@
-Title: Grilled Zucchini
-Pub date: July 20, 2014
-Category: Recipes, Vegetable, 
+# Grilled Zucchini
+###### July 20, 2014
+###### Recipes, Vegetable, 
 
 6 whole Zucchini (medium Sized)
 1/4 cup Olive Oil
@@ -17,5 +17,5 @@ Prepare the indoor or outdoor grill to medium to medium-low heat. Grill the zucc
 
 Pile up the rest of the lemon zest and sprinkle 1 tablespoon kosher salt on top. Use a knife to chop the salt and zest together until it becomes...well, lemon salt! Add more salt if it needs it. Sprinkle the lemon salt over the plate of grilled zucchini and serve.
 
-</div>
+
 <em>from</em> http://thepioneerwoman.com/cooking/2012/08/grilled-zucchini-with-yummy-lemon-salt/

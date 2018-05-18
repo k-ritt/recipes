@@ -1,6 +1,6 @@
-Title: Chicken Quesadillas
-Pub date: December 1, 2011
-Category: Recipes, 
+# Chicken Quesadillas
+###### December 1, 2011
+###### Recipes, 
 
 Adapted from all recipes "Pico de Gallo Chicken Quesadillas"
 

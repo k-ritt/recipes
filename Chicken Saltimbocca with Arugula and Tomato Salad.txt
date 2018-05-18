@@ -1,6 +1,6 @@
-Title: Chicken Saltimbocca with Arugula and Tomato Salad
-Pub date: November 30, 2012
-Category: Chicken, Recipes, Uncategorized, 
+# Chicken Saltimbocca with Arugula and Tomato Salad
+###### November 30, 2012
+###### Chicken, Recipes, Uncategorized, 
 
 4 Tbs extra-virgin olive oil
 4 boneless, skinless chicken breast halves, 5-6 ounces, pounded evenly to half their original thickness

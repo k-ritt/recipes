@@ -1,6 +1,6 @@
-Title: Moisturizing Soap
-Pub date: November 25, 2012
-Category: Soap, 
+# Moisturizing Soap
+###### November 25, 2012
+###### Soap, 
 
 <table id="results">
 <tbody>

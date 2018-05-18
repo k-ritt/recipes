@@ -1,6 +1,6 @@
-Title: Stuffed Zucchini with Turkey Sausage
-Pub date: July 20, 2014
-Category: Recipes, Vegetable, 
+# Stuffed Zucchini with Turkey Sausage
+###### July 20, 2014
+###### Recipes, Vegetable, 
 
 1 zucchini about 12 inches long, or 6 medium ones
 3 tablespoons olive oil

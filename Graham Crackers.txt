@@ -1,6 +1,6 @@
-Title: Graham Crackers
-Pub date: April 21, 2016
-Category: Recipes, Snacks, 
+# Graham Crackers
+###### April 21, 2016
+###### Recipes, Snacks, 
 
 2 1/2 cups plus 2 tablespoons (375 grams) unbleached all-purpose flour
 1 cup (176 grams) dark brown sugar, lightly packed

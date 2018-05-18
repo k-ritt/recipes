@@ -1,6 +1,6 @@
-Title: Ricotta Calzone with Sausage and Peppers
-Pub date: February 2, 2012
-Category: Recipes, 
+# Ricotta Calzone with Sausage and Peppers
+###### February 2, 2012
+###### Recipes, 
 
 <h4>Adapted from: http://www.cooksillustrated.com/recipes/detail.asp?docid=5468</h4>
 <h4>Makes six 9 by 4-Inch</h4>
@@ -39,7 +39,7 @@ Remove casing from sausage and cook in a 12-inch nonstick skillet over high heat
 5. Cut eight 9-inch squares of parchment paper. Working with one piece of dough at a time and keeping other pieces covered, follow illustration 1 to roll dough into 9-inch round. Set round onto parchment square and cover with another parchment square; roll out another dough ball, set dough round on top of first, and cover with parchment square. Repeat to form stack of 3 rounds, covering top round with parchment square. Form second stack of 3 with remaining dough balls and parchment squares.
 
 6. Remove top parchment square from first stack of dough rounds and place rounds with parchment beneath on work surface; if dough rounds have shrunk, gently and evenly roll out again to 9-inch rounds. To form the calzones, place scant 1/2 cup cheese filling in center of bottom half of dough round. Using small spatula, spread/press filling in even layer across bottom half of dough round, leaving 1-inch border uncovered.  Divide the sausage mixture evenly into 6 portions on plate; place 1 portion sausage mixture on top of cheese filling on dough round and follow illustrations 2 through 6. With pastry brush, brush tops and sides of calzones with olive oil and lightly sprinkle with salt. Trim excess parchment paper; slide calzones on parchment onto pizza peel or rimless baking sheet, then slide calzones with parchment onto hot pizza stone, evenly spacing them apart. Bake until golden brown, about 11 minutes; use pizza peel or rimless baking sheet to remove calzones with parchment to wire rack. Remove parchment, cool 5 minutes, and serve. While first batch bakes, form second batch and bake after removing first batch.
-<div>
+
 <h4>Step-by-Step</h4>
 <img src="http://media.cooksillustrated.com/images/document%5Cstepbystep%5CSO03calzone1.jpg" alt="" />1. With fingertips, press dough ball into 5-inch circle. With floured rolling pin, roll outward from center in all directions until dough forms 9-inch circle. If dough sticks, dust flour under it.
 
@@ -49,4 +49,4 @@ Remove casing from sausage and cook in a 12-inch nonstick skillet over high heat
 <img src="http://media.cooksillustrated.com/images/document%5Cstepbystep%5CSO03calzone5.jpg" alt="" />5. Begining at one end of seam, place index finger diagonally across edge and gently pull bottom layer of dough over tip of index finger; press into dough to seal. Repeat until calzone is fully sealed.
 <img src="http://media.cooksillustrated.com/images/document%5Cstepbystep%5CSO03calzone6.jpg" alt="" />6. With very sharp paring knife or razor blade, cut 5 slits, about 11/2 inches long, diagonally across top of calzone, making sure to cut through only top layer of dough and not completely through calzone.
 
-</div>
+

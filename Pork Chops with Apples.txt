@@ -1,21 +1,21 @@
-Title: Pork Chops with Apples
-Pub date: November 3, 2012
-Category: Recipes, 
+# Pork Chops with Apples
+###### November 3, 2012
+###### Recipes, 
 
-<ul>
-	<li>6 whole Boneless Pork Chops, About 1/2-inch Thick [Try pork tenderloin (cut into medallions) for juicer more flavorful pork]</li>
-	<li>2 Tablespoons Olive Oil</li>
-	<li>2 Tablespoons Butter</li>
-	<li>2 whole Gala Apples, Diced</li>
-	<li>1/2 cup Dry White Wine</li>
-	<li>2 teaspoons Apple Cider Vinegar</li>
-	<li>3/4 cups Pure Maple Syrup</li>
-	<li>1 dash Salt</li>
-	<li>Freshly Ground Black Pepper</li>
-	<li>Creamy Bacon-Cheese Grits (see My Tasty Kitchen Recipe)</li>
-</ul>
+
+	* 6 whole Boneless Pork Chops, About 1/2-inch Thick [Try pork tenderloin (cut into medallions) for juicer more flavorful pork]
+	* 2 Tablespoons Olive Oil
+	* 2 Tablespoons Butter
+	* 2 whole Gala Apples, Diced
+	* 1/2 cup Dry White Wine
+	* 2 teaspoons Apple Cider Vinegar
+	* 3/4 cups Pure Maple Syrup
+	* 1 dash Salt
+	* Freshly Ground Black Pepper
+	* Creamy Bacon-Cheese Grits (see My Tasty Kitchen Recipe)
+
 Heat a large, heavy skillet over medium-high heat. Add olive oil and butter and heat until butter in melted.
-<div>
+
 
 Salt and pepper both sides of pork chops. Brown them on both sides until nice and golden. Remove pork chops from the skillet and set on a separate plate.
 
@@ -25,5 +25,5 @@ Serve pork chops on top of a generous helping of Creamy Cheese Grits (mashed pot
 
 from pioneerwoman.com
 
-</div>
+
 &nbsp;

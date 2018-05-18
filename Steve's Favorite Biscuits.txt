@@ -1,6 +1,6 @@
-Title: Steve&#8217;s Favorite Biscuits
-Pub date: August 18, 2012
-Category: Bread, Recipes, 
+# Steve&#8217;s Favorite Biscuits
+###### August 18, 2012
+###### Bread, Recipes, 
 
 Makes 10-12 biscuits
 

@@ -1,6 +1,6 @@
-Title: Cultured Butter
-Pub date: March 24, 2014
-Category: Condiments, Recipes, 
+# Cultured Butter
+###### March 24, 2014
+###### Condiments, Recipes, 
 
 <div class="post-content main">
 
@@ -24,7 +24,7 @@ Makes about 12 ounces butter and 1½ cups buttermilk
 
 6. Divide butter between two 12 by 15-inch pieces of parchment paper or waxed paper. Using your hands, form each portion into rough log shape. Fold top of paper over butter, then roll butter log back and forth until smooth and round and reaches desired length and thickness. (Alternatively, after folding paper over butter, use straight edge to push against top portion of paper to coax butter into tidy log of desired length and thickness.) Store butter, wrapped in paper, in refrigerator for about 1 month.
 
-</div>
+
 <em>for more detailed info and pics:
 </em>http://www.americastestkitchenfeed.com/recipes/homemade-cultured-butter/
 ____

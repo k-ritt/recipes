@@ -1,6 +1,6 @@
-Title: Lasagne
-Pub date: July 20, 2014
-Category: Beef, Pasta, Recipes, 
+# Lasagne
+###### July 20, 2014
+###### Beef, Pasta, Recipes, 
 
 1 lb Italian Sausage, skinned and chopped
 1/2 lbs Ground Beef

@@ -1,6 +1,6 @@
-Title: Shrimp Creole
-Pub date: October 24, 2015
-Category: Recipes, Seafood, 
+# Shrimp Creole
+###### October 24, 2015
+###### Recipes, Seafood, 
 
 4 ounces (1 stick) unsalted butter
 2 cups chopped onions

@@ -1,6 +1,6 @@
-Title: Chicken Pot Pie
-Pub date: January 6, 2012
-Category: Chicken, Recipes, 
+# Chicken Pot Pie
+###### January 6, 2012
+###### Chicken, Recipes, 
 
 Ingredients
 

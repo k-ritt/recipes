@@ -1,6 +1,6 @@
-Title: Roasted Green Beans
-Pub date: January 29, 2017
-Category: Recipes, Vegetable, 
+# Roasted Green Beans
+###### January 29, 2017
+###### Recipes, Vegetable, 
 
 Serves 2, generously
 

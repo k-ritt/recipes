@@ -1,6 +1,6 @@
-Title: Lavender Lemon Yogurt Soap
-Pub date: March 26, 2014
-Category: Soap, 
+# Lavender Lemon Yogurt Soap
+###### March 26, 2014
+###### Soap, 
 
 <table id="results">
 <tbody>

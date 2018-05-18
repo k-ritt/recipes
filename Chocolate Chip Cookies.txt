@@ -1,6 +1,6 @@
-Title: Chocolate Chip Cookies
-Pub date: May 27, 2014
-Category: Dessert, Recipes, 
+# Chocolate Chip Cookies
+###### May 27, 2014
+###### Dessert, Recipes, 
 
 2 cups all-purpose flour
 1 teaspoon salt

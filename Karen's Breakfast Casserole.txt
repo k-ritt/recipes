@@ -1,6 +1,6 @@
-Title: Karen&#8217;s Breakfast Casserole
-Pub date: November 26, 2012
-Category: Breakfast, Recipes, 
+# Karen&#8217;s Breakfast Casserole
+###### November 26, 2012
+###### Breakfast, Recipes, 
 
 Thicker, "breadier" version than the original.
 

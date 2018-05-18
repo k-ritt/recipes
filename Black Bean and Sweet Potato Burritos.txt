@@ -1,6 +1,6 @@
-Title: Black Bean and Sweet Potato Burritos
-Pub date: May 10, 2016
-Category: Recipes, Vegetarian, 
+# Black Bean and Sweet Potato Burritos
+###### May 10, 2016
+###### Recipes, Vegetarian, 
 
 2 sweet potatoes, peeled and cubed small (about 3-4 cups)
 1 jalapeno, seeded and finely diced

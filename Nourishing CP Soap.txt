@@ -1,6 +1,6 @@
-Title: Nourishing CP Soap
-Pub date: November 25, 2012
-Category: Soap, 
+# Nourishing CP Soap
+###### November 25, 2012
+###### Soap, 
 
 <table id="results">
 <tbody>

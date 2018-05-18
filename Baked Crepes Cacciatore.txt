@@ -1,6 +1,6 @@
-Title: Baked Crepes Cacciatore
-Pub date: December 14, 2014
-Category: Chicken, Recipes, 
+# Baked Crepes Cacciatore
+###### December 14, 2014
+###### Chicken, Recipes, 
 
 <div class="ingredients">
 <h5>For the filling:</h5>
@@ -26,8 +26,8 @@ Freshly ground black pepper
 12 8-inch <a title="Basic Crepe Recipe" href="http://karen.rittmeyer.net/wp-admin/post-new.php" target="_blank">crêpes</a>, warmed if made ahead
 1 tsp. sweet paprika (optional)
 
-</div>
-<div id="ym_813551370984169144" class="ym"></div>
+
+<div id="ym_813551370984169144" class="ym">
 <div class="row recipe-content">
 <div class="twelve columns">
 <h5>Make the filling:</h5>
@@ -49,8 +49,8 @@ Spread the cheese sauce evenly over the crêpes and sprinkle with the paprika (i
 <h5>Make Ahead Tips</h5>
 The filling may also be made up to 3 days ahead. Store it in an airtight container in the refrigerator and reheat over medium-low heat before using it.
 
-</div>
-</div>
+
+
 &nbsp;
 
 <em>from</em>

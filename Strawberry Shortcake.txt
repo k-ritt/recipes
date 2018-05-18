@@ -1,6 +1,6 @@
-Title: Strawberry Shortcake
-Pub date: July 5, 2017
-Category: Dessert, 
+# Strawberry Shortcake
+###### July 5, 2017
+###### Dessert, 
 
 SHORTCAKES
 

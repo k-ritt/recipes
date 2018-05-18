@@ -1,6 +1,6 @@
-Title: Mexican Red Rice
-Pub date: November 3, 2012
-Category: Recipes, Rice, 
+# Mexican Red Rice
+###### November 3, 2012
+###### Recipes, Rice, 
 
 3/4 cup crushed tomatoes, drained
 1/4 medium yellow onion

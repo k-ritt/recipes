@@ -1,6 +1,6 @@
-Title: The Cream Cheese Frosting
-Pub date: November 15, 2013
-Category: Dessert, Recipes, 
+# The Cream Cheese Frosting
+###### November 15, 2013
+###### Dessert, Recipes, 
 
 Revised 01/09/2015
 

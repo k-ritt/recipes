@@ -1,6 +1,6 @@
-Title: Hot Fudge
-Pub date: April 19, 2016
-Category: Dessert, Recipes, 
+# Hot Fudge
+###### April 19, 2016
+###### Dessert, Recipes, 
 
 150 grams 70% dark chocolate
 100 grams butter

@@ -1,6 +1,6 @@
-Title: Fried Rice
-Pub date: October 19, 2012
-Category: Chicken, Recipes, Rice, 
+# Fried Rice
+###### October 19, 2012
+###### Chicken, Recipes, Rice, 
 
 Read tips at:
 http://steamykitchen.com/68-secrets-to-cooking-the-best-chinese-fried-rice.html
@@ -42,15 +42,15 @@ Yield: Serves 4.
 Adapted from www.simplyrecipes.com/recipes/shrimp_fried_rice
 
 Notes:
-<ul>
-	<li>Chicken needs to be warm in order not to stick (can place in warm water just before tossing with salt, pepper, etc)</li>
-	<li>Eggs stuck so make sure there is some fat in the pan</li>
-	<li>Cook rice to be drier than recipe calls for</li>
-	<li>Make larger recipe for more leftovers</li>
-	<li>Didn't love carrots</li>
-	<li>Try broccoli</li>
-	<li>Try jasmine rice</li>
-</ul>
+
+	* Chicken needs to be warm in order not to stick (can place in warm water just before tossing with salt, pepper, etc)
+	* Eggs stuck so make sure there is some fat in the pan
+	* Cook rice to be drier than recipe calls for
+	* Make larger recipe for more leftovers
+	* Didn't love carrots
+	* Try broccoli
+	* Try jasmine rice
+
 &nbsp;
 
-</div>
+

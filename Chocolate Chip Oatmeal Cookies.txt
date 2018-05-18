@@ -1,6 +1,6 @@
-Title: Chocolate Chip Oatmeal Cookies
-Pub date: November 11, 2014
-Category: Dessert, Recipes, 
+# Chocolate Chip Oatmeal Cookies
+###### November 11, 2014
+###### Dessert, Recipes, 
 
 1 cup (16 tablespoons) unsalted butter, at room temperature
 1 cup (7 1/2 oz) light brown sugar, packed

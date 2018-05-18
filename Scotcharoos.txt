@@ -1,6 +1,6 @@
-Title: Scotcharoos
-Pub date: February 7, 2012
-Category: Dessert, Recipes, 
+# Scotcharoos
+###### February 7, 2012
+###### Dessert, Recipes, 
 
 1 1/2 cup pb
 1 cup sugar

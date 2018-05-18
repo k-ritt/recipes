@@ -1,6 +1,6 @@
-Title: Cocktails
-Pub date: May 31, 2015
-Category: Beverages, Recipes, 
+# Cocktails
+###### May 31, 2015
+###### Beverages, Recipes, 
 
 Margarita
 1:1:1 Lime juice, Tequila, Cointreau

@@ -1,6 +1,6 @@
-Title: Orzo Salad
-Pub date: October 20, 2012
-Category: Pasta, Recipes, Salad, 
+# Orzo Salad
+###### October 20, 2012
+###### Pasta, Recipes, Salad, 
 
 Or "Tri-Colore Orzo"
 

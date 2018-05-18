@@ -1,6 +1,6 @@
-Title: Fried Potatoes
-Pub date: August 18, 2012
-Category: Recipes, 
+# Fried Potatoes
+###### August 18, 2012
+###### Recipes, 
 
 2 Tbs vegetable oil or bacon grease
 2 pounds russet potatoes, peeled and cut into 1/4 inch cubes

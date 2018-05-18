@@ -1,6 +1,6 @@
-Title: Tuna Macaroni Salad
-Pub date: April 13, 2013
-Category: Pasta, Recipes, Salad, 
+# Tuna Macaroni Salad
+###### April 13, 2013
+###### Pasta, Recipes, Salad, 
 
 2 C. uncooked shell macaroni cooked with couple tsp. of chick. Bouillon in water
 Mayo

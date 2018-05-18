@@ -1,6 +1,6 @@
-Title: Granola
-Pub date: April 7, 2015
-Category: Breakfast, Recipes, 
+# Granola
+###### April 7, 2015
+###### Breakfast, Recipes, 
 
 <div class="ingredients">
 
@@ -26,4 +26,4 @@ Transfer the granola to a large bowl, breaking up any large clumps. Stir in the 
 
 <em>http://www.finecooking.com/recipes/dried-cherry-coconut-granola.aspx</em>
 
-</div>
+
